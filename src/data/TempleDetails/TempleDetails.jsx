@@ -712,83 +712,98 @@ const templeData = [
   },
   { 
     id: 9,
-    name: "Chausath Yogini Temple", 
-    location: "Jabalpur", 
-    imageUrl: asset.Chausath_Yogini_jab, 
+    name: "Kandariya Mahadeva Temple", 
+    location: "Khajuraho", 
+    imageUrl: asset.Kandariya_Mahadev_temp, 
     description: (
-        <>
-          <h2>Introduction to Chausath Yogini Temple</h2>
-          <p>
-            The **Chausath Yogini Temple** in **Jabalpur**, Madhya Pradesh, is a remarkable and ancient temple dedicated to the 64 Yoginis—female deities representing divine feminine power in Hinduism. It is one of the very few temples in India dedicated to this powerful group of goddesses. The temple stands as a testament to the spiritual legacy of Hinduism and holds significant historical and cultural value.
-          </p>
-          <p>
-            The temple is situated atop a hill, offering spectacular views of the surrounding landscapes, including the **Dhuandhar Waterfalls** and the **Narmada River**. This temple is particularly famous for its distinct **architectural structure** and spiritual importance, drawing both pilgrims and tourists throughout the year.
-          </p>
-      
-          <h3>Historical and Mythological Significance</h3>
-          <p>
-            The **Chausath Yogini Temple** was built during the **Kalachuri Dynasty** around the **10th century AD**, and it is an important example of ancient Hindu temple architecture. The name **"Chausath"** refers to the 64 **Yoginis** who are revered here, believed to possess divine powers and play a significant role in shaping the energies of the universe. In Hindu mythology, the Yoginis are considered companions of **Lord Shiva** and are embodiments of the divine feminine energy, also known as **Shakti**.
-          </p>
-          <p>
-            The mythological background of the Yoginis is deeply connected with various Tantric traditions, where they are worshipped as protectors and controllers of universal forces. In the **Chausath Yogini Temple**, devotees believe that offering prayers to the Yoginis can help achieve spiritual liberation, protection from negative energies, and blessings for prosperity and well-being.
-          </p>
-      
-          <h3>Architectural Splendor</h3>
-          <p>
-            The **Chausath Yogini Temple** features a circular arrangement of **64 small shrines**, each dedicated to one of the 64 Yoginis. The temple is designed in the shape of a **circular platform**, with the shrines surrounding a central sanctum where the main deity is enshrined. The structure is built with **sandstone** and showcases **intricate carvings** and architectural finesse, reflecting the artistic excellence of the era.
-          </p>
-          <p>
-            The central area of the temple features a **large open courtyard**, which is surrounded by a series of shrines. Each shrine houses the idol of a different Yogini, and the shrines are marked by exquisitely detailed carvings and sculptures. The carvings are symbolic, depicting stories from Hindu mythology, especially those related to **Shiva**, **Shakti**, and various divine aspects of life.
-          </p>
-          <p>
-            The architectural layout of the temple symbolizes the **harmony** and **balance** between the physical and spiritual realms. Visitors to the temple often find themselves awestruck by the beauty and symmetry of the structure, which adds to the serene and divine atmosphere of the site.
-          </p>
-      
-          <h3>Spiritual and Religious Importance</h3>
-          <p>
-            The **Chausath Yogini Temple** holds immense spiritual importance for Hindus, especially those who follow **Tantric** traditions. It is considered a **powerful center of Shakti worship**, where devotees seek blessings for spiritual growth, health, protection, and prosperity. The Yoginis are believed to possess the power to overcome obstacles, heal the body, and purify the soul.
-          </p>
-          <p>
-            Pilgrims come to the temple to offer their prayers, chant mantras, and seek blessings from the 64 Yoginis. Each Yogini is considered to have a unique power, and the worshippers believe that invoking their blessings brings divine protection and strength. The temple is also known for its **meditative atmosphere**, where devotees can connect with the divine feminine energy and experience spiritual peace.
-          </p>
-          <p>
-            In addition to regular worship, the temple also hosts various **Tantric rituals** and prayers, attracting devotees who are interested in **esoteric practices** and spiritual purification. The temple is regarded as a sacred space that aids in the transformation of the individual soul and its union with the divine.
-          </p>
-      
-          <h3>Festivals and Rituals</h3>
-          <p>
-            The temple celebrates various important festivals, the most notable being **Navaratri**, a nine-day festival dedicated to the worship of **Durga** and other forms of the **divine feminine**. During Navaratri, the temple is decorated with flowers, lights, and idols of the goddess. Special prayers and rituals are conducted, and devotees gather in large numbers to participate in the celebrations.
-          </p>
-          <p>
-            Another significant festival celebrated at the temple is **Maha Shivaratri**, a festival dedicated to Lord Shiva. On this day, devotees come to offer prayers, chant mantras, and observe fasts. The temple becomes a vibrant hub of activity, with pilgrims from all over the country visiting to seek blessings from Shiva and the Yoginis.
-          </p>
-          <p>
-            The temple also hosts various other religious ceremonies and cultural events throughout the year, including **local fairs** and processions, which attract thousands of visitors. These events provide an opportunity for the local community to come together and celebrate their faith and culture.
-          </p>
-      
-          <h3>Visiting the Chausath Yogini Temple</h3>
-          <p>
-            The **Chausath Yogini Temple** is located in **Bhedaghat**, about 20 kilometers from the city of **Jabalpur**. The temple is easily accessible by road from Jabalpur, and visitors can either take a private vehicle or use local transportation to reach the site.
-          </p>
-          <p>
-            To reach the temple, visitors need to climb a set of **106 steps** that lead up the hill to the temple complex. The climb may seem a bit challenging for some, but the **panoramic views** of the surrounding forests and the nearby **Dhuandhar Waterfalls** make the ascent worthwhile.
-          </p>
-          <p>
-            Once at the top, visitors are greeted by the peaceful atmosphere and the majestic view of the **Narmada River** and surrounding hills. The temple is open to pilgrims and tourists year-round, with the most ideal time to visit being during the **winter months**, from **October to March**, when the weather is cool and pleasant.
-          </p>
-          <p>
-            Aside from visiting the temple, tourists can also explore the **Dhuandhar Waterfalls** nearby, which is a breathtaking sight. The **Marble Rocks** at Bhedaghat are also a must-visit, offering visitors a chance to experience the natural beauty of the region.
-          </p>
-      
-          <h3>Conclusion</h3>
-          <p>
-            The **Chausath Yogini Temple** in Jabalpur is a must-visit destination for those seeking a blend of spiritual peace, historical significance, and architectural beauty. Whether you are a devout Hindu or a curious traveler, this temple offers an opportunity to connect with the divine feminine energy and experience the power of the **64 Yoginis**. The temple’s serene environment, combined with its fascinating history and mythology, makes it a unique and special place to visit in Madhya Pradesh.
-          </p>
-          <p>
-            With its stunning architecture, rich cultural heritage, and profound spiritual significance, the Chausath Yogini Temple remains one of the most important and revered temples in the region. It continues to attract pilgrims, tourists, and spiritual seekers alike, offering them a space to experience divine energy and embark on a transformative spiritual journey.
-          </p>
-        </>
-      )
+      <>
+        <h2>Introduction to Kandariya Mahadeva Temple</h2>
+        <p>
+          Kandariya Mahadeva Temple, located in the renowned UNESCO World Heritage Site of Khajuraho, Madhya Pradesh, is one of the most magnificent temples in India. Dedicated to Lord Shiva, this temple stands as a supreme example of medieval temple architecture. Constructed around 1025–1050 CE during the reign of King Vidyadhara of the Chandela dynasty, it reflects the zenith of temple-building activity in central India. The word "Kandariya" means "the cave" — symbolically referring to the inner sanctum, while "Mahadeva" refers to Lord Shiva, the Great God. The temple draws countless visitors each year — both pilgrims and lovers of art and history — who come to witness its sculptural brilliance and spiritual significance.
+        </p>
+    
+        <h3>History and Origin of Kandariya Mahadeva Temple</h3>
+        <p>
+          The Kandariya Mahadeva Temple was commissioned by King Vidyadhara, a ruler of the Chandela dynasty who is known for resisting the attacks of Mahmud of Ghazni. The temple likely commemorates his military victories and represents the flourishing art, culture, and devotion of the Chandela court. Built in the early 11th century, it stands as the largest and most ornate of the Western Group of Temples in Khajuraho.
+        </p>
+        <p>
+          Khajuraho itself was a significant religious and cultural center during the Chandela period, known for its advanced urban planning and exquisite temple complexes. The temples, including Kandariya Mahadeva, were not just religious centers but also places that symbolized the creative and spiritual energy of the time. The mythological origins of Khajuraho include legends of divine unions and celestial dancers, adding a mystical charm to its existence.
+        </p>
+        <p>
+          The temple complex originally had 85 temples, of which about 25 remain today. Kandariya Mahadeva stands out not just due to its size, but because of the intricate detailing of over 800 sculptural panels that wrap around its spire and outer walls, narrating stories from daily life, mythology, and divine love.
+        </p>
+    
+        <h3>The Divine Role of Lord Shiva</h3>
+        <p>
+          In the Hindu pantheon, Lord Shiva represents the destroyer and transformer, a part of the Trimurti along with Brahma (creator) and Vishnu (preserver). Shiva, worshipped in the form of a lingam, embodies the infinite and the formless. The Kandariya Mahadeva Temple venerates him as the supreme deity — the cosmic dancer, the ascetic yogi, and the benevolent protector.
+        </p>
+        <p>
+          Lord Shiva's role in cosmic balance — as the destroyer of ignorance and evil — makes him central to Hindu worship and philosophy. The lingam in the temple’s sanctum symbolizes divine generative power and timelessness. Devotees come here to offer prayers, seeking protection, peace, and spiritual liberation.
+        </p>
+    
+        <h3>Temple Architecture</h3>
+        <p>
+          The architecture of Kandariya Mahadeva Temple is a crowning example of the Nagara style of North Indian temples. The temple rises from a high platform and includes a sanctum (garbhagriha), a vestibule (antarala), a main hall (mahamandapa), and a smaller entrance porch (ardhamandapa). The layout follows a linear axial alignment, leading devotees gradually toward the innermost sanctum.
+        </p>
+        <p>
+          The most striking feature of the temple is its 31-meter high shikhara (spire), which is surrounded by 84 subsidiary spires, mimicking the form of Mount Meru, the mythical cosmic mountain. The exterior walls are carved with more than 800 exquisitely detailed sculptures, featuring divine beings, apsaras (celestial maidens), gods and goddesses, musicians, warriors, and amorous couples.
+        </p>
+        <p>
+          Inside, the temple’s ceiling features concentric circular motifs with floral and geometric designs. The walls and pillars are profusely carved with delicate filigree, scenes from mythology, and narrative friezes. The craftsmanship demonstrates incredible precision and imagination, with sculptures so fine that even the texture of ornaments and expressions of emotion can be discerned.
+        </p>
+    
+        <h3>Symbolism and Iconography</h3>
+        <p>
+          The temple is not just an architectural wonder but also a metaphysical map of the spiritual journey. The spire represents a journey toward the heavens, while the inner sanctum symbolizes the inner self — quiet, dark, and introspective. The many erotic sculptures that grace the outer walls of the temple are symbolic, representing kama (desire), one of the four Purusharthas (goals of human life), alongside dharma (righteousness), artha (prosperity), and moksha (liberation).
+        </p>
+        <p>
+          Far from being mere decoration, these sculptures reflect the Hindu philosophy that recognizes life in its totality — including sensuality — as sacred. They suggest that one must understand and transcend desires before reaching the divine core. The outer display of worldly activities and desires culminates in the serene, undecorated sanctum containing the Shiva lingam — illustrating the transcendence from the material to the spiritual.
+        </p>
+    
+        <h3>Rituals and Practices</h3>
+        <p>
+          Though the temple is primarily an archaeological site today, Kandariya Mahadeva Temple still serves as an important spiritual destination. Daily worship continues to be performed in the sanctum by local priests. Traditional rituals include abhishekam (ritual bathing) of the lingam with milk, water, honey, and ghee, accompanied by chanting of Vedic mantras and Shiva stotras (hymns).
+        </p>
+        <p>
+          Devotees also light lamps, offer flowers, and perform circumambulation (pradakshina) of the sanctum. On auspicious days, especially Mondays (sacred to Shiva), the temple sees a higher influx of visitors. The environment during these rituals, filled with the fragrance of incense and sound of bells, creates an immersive spiritual experience.
+        </p>
+        <p>
+          Rituals during Maha Shivaratri include night-long vigils, special pujas, and devotional singing. Some devotees also observe fasts and read Shiva Purana texts as acts of reverence.
+        </p>
+    
+        <h3>Festivals and Celebrations</h3>
+        <p>
+          The most significant festival celebrated at Kandariya Mahadeva Temple is Maha Shivaratri, dedicated to the worship of Lord Shiva. During this festival, the temple is illuminated beautifully, and thousands of devotees gather to offer prayers, chant mantras, and participate in all-night vigils. It is considered highly auspicious to visit the temple during this time.
+        </p>
+        <p>
+          Another notable event is the Khajuraho Dance Festival, held annually in February or March. The festival celebrates Indian classical dance and music, with performances held against the stunning backdrop of the Kandariya Mahadeva and nearby temples. Artists from across India perform Bharatanatyam, Odissi, Kathak, Kuchipudi, and more, reviving the ancient cultural heritage of Khajuraho.
+        </p>
+        <p>
+          These celebrations transform the temple complex into a vibrant cultural hub, combining spirituality with performance art in a uniquely immersive setting.
+        </p>
+    
+        <h3>Visiting Kandariya Mahadeva Temple</h3>
+        <p>
+          The temple is located in the Western Group of Temples in Khajuraho and is easily accessible by road and air. The nearest airport is Khajuraho Airport, about 5 km away. The temple is centrally located in the town, making it easy for tourists to combine their visit with other temples in the area.
+        </p>
+        <p>
+          Visitors are advised to enter the temple complex in the morning or late afternoon to avoid the midday heat. Photography is permitted, but respectful behavior is expected within the premises. There are guides available at the entrance who can explain the history and iconography in greater detail.
+        </p>
+        <p>
+          The temple is open all year, from sunrise to sunset, with an entry fee applicable to non-Indian visitors as part of the ASI-protected site regulations.
+        </p>
+    
+        <h3>Best Time to Visit</h3>
+        <p>
+          The best time to visit Kandariya Mahadeva Temple is during the cooler months, from October to March. The Khajuraho Dance Festival in February is a particularly attractive time, offering not only comfortable weather but also an enriching cultural experience. Avoid visiting during peak summer months (April to June), when temperatures can be extremely high.
+        </p>
+    
+        <h3>Conclusion</h3>
+        <p>
+          Kandariya Mahadeva Temple is a masterpiece of Indian temple architecture and spiritual symbolism. Whether you're a devotee of Lord Shiva, an admirer of historical art, or a seeker of cultural depth, this temple offers a deeply enriching experience. Its sacredness, craftsmanship, and narrative beauty make it a must-visit destination for anyone exploring India's spiritual and artistic heritage.
+        </p>
+      </>
+    )
   },
   {
     id: 10,

@@ -15,6 +15,8 @@ import Sharda_maa_temp from './Sharda_maa_temp.jpg'
 import Virateshwar_temple from './Virateshwar_temple.jpg'
 import Ramvan_temp from './Ramvan_temp.webp'
 import Mp_logo from './Mp_logo.png'
+import Kandariya_Mahadev_temp from './Kandariya_Mahadev_temp.jpg'
+
 
 const asset ={
     Mahakal_temple,
@@ -33,7 +35,8 @@ const asset ={
     Sharda_maa_temp,
     Virateshwar_temple,
     Ramvan_temp,
-    Mp_logo
+    Mp_logo,
+    Kandariya_Mahadev_temp
 }
 
 export default asset;

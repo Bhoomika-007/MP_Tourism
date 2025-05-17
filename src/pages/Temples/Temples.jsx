@@ -61,9 +61,9 @@ const templeData = [
   },
   { 
     id: 9,
-    name: "Chausath Yogini Temple", 
-    location: "Jabalpur", 
-    imageUrl: asset.Chausath_Yogini_jab, 
+    name: "Kandariya Mahadeva Temple", 
+    location: "Khajuraho", 
+    imageUrl: asset.Kandariya_Mahadev_temp, 
     description: 'Shree Mahakaleshwar Temple is one of the 12 Jyotirlingas, located in Ujjain, Madhya Pradesh. It is a major pilgrimage site for Hindus and an architectural marvel.'
   },
   { 

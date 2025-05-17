@@ -12,10 +12,10 @@ function Home() {
             <div className="home-total-cont">
                 <div className="home-left">
                     <h1>MP TOURISM</h1>
-                    <p>From the heart of INDIA </p>
+                    <p>(From the heart of INDIA)</p>
                 </div>
                 <div className="home-right">
-                    <p>MP known for its variety of </p>
+                    <p>MP known for its cultural diversity</p>
                 </div>
             </div>
         </div>

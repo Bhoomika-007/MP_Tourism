@@ -14,7 +14,7 @@ import asset from '../../../assets/asset.js';
         { name: "Bharat Milap Temple", location: "Chitrakoot", imageUrl:asset.Bharat_milap },
         { name: "Shree Pashupatinath Temple", location: "Mandsaur", imageUrl: asset.Pashupatinath },
         { name: "Chausath Yogini Temple", location: "Bhedaghat", imageUrl: asset.Chausath_yogin },
-        { name: "Chausath Yogini Temple", location: "Jabalpur", imageUrl: asset.Chausath_Yogini_jab },
+        { name: "Kandariya Mahadeva Temple", location: "Khajuraho", imageUrl: asset.Kandariya_Mahadev_temp },
         { name: "Bhojeshwar Mahadev Temple", location: "Bhojpur Bhopal", imageUrl: asset.Bhojeshwar_Mahadev },
         { name: "Shri Ram Raja Mandir", location: "Orcha Jhansi", imageUrl: asset.Raja_Ram_mandir },
         { name: "Ratangarh Mata Temple", location: "Ratangarh Gwalior", imageUrl: asset.Ratan_garh_temp },

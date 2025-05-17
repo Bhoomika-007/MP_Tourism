@@ -1,12 +1,64 @@
-# React + Vite
+# Madhya Pradesh Tourism
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Description:
+------------
+MP Tourism – Tourism Explorer is a React-based web application dedicated to showcasing the rich temple heritage of Madhya Pradesh, India. The platform provides visitors with detailed information about historic temples, cultural insights, and easy access to contact or inquiry services. It's designed for both tourists and locals interested in spiritual exploration.
 
-Currently, two official plugins are available:
+Features:
+---------
+- **Home Page**: Introduction to MP Tourism and featured highlights.
+- **Temples Page**: A gallery or list of temples with names, descriptions, and images.
+- **Contact Us Page**: A simple contact form or contact details for tourism inquiries.
+- **Navigation**: Seamless page routing using React Router.
+- **Mobile-Friendly**: Fully responsive layout for all screen sizes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used:
+------------------
+- React.js
+- React Router DOM
+- HTML5 & CSS3
+- JavaScript (ES6+)
+- Optional: Bootstrap or Tailwind CSS (if used)
 
-## Expanding the ESLint configuration
+Installation Instructions:
+--------------------------
+1. Clone the repository:
+git clone <your-repo-url>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. Navigate to the project directory:
+cd mp-tourism-temples
+
+3. Install all dependencies:
+npm install
+
+4. Start the development server:
+npm start
+
+Build for Production:
+---------------------
+To generate an optimized production build:
+npm run build
+
+Project Structure:
+------------------
+- `public/` - Static assets like favicon and images
+- `src/`
+  - `components/` - Reusable UI elements (e.g., Navbar, Footer)
+  - `pages/` - Individual page components (Home, Temples, Contact)
+  - `App.js` - Main app with routing logic
+  - `index.js` - Entry point of the application
+
+Customization:
+--------------
+You can add more temple pages or categories (e.g., Jain Temples, Shiva Temples) by creating new components under `pages/` and updating the router in `App.js`.
+
+Contact:
+--------
+For any queries or suggestions regarding the project:
+
+MP Tourism Team  
+Email: support@mptourism.dev (replace with your actual email)
+
+License:
+--------
+This project is open for educational and informational use. Commercial use requires permission.
