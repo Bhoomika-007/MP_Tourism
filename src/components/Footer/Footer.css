@@ -1,0 +1,10 @@
+.foot-cont{
+    width:100vw;
+    height:30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #333333;
+    color:#FAF3E0
+}

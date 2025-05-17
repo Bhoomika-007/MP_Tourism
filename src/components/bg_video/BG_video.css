@@ -1,0 +1,14 @@
+.background-video{
+    width:100vw;
+    height:110vh;
+    object-fit: cover; 
+}
+.container_vide{
+    width:100vw;
+    height:110vh;
+}
+video{
+    width:100vw;
+    height:110vh;
+
+}

@@ -1,0 +1,148 @@
+    .nav-cont {
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    opacity: 0.9;
+    position: fixed;
+    top: 0;
+    z-index: 6;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80vw;
+    height: 5vh;
+    margin: auto;
+    margin-top: 10px;
+    background-color: #333333;
+    border-radius: 10px;
+    color: #FAF3E0;
+    font-size: 1.2rem;
+    position: relative;
+  }
+  
+  .nav-left {
+    margin-left: 10px;
+  }
+  
+  .nav-right {
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    padding-right: 10px;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .nav-right.open {
+    display: block;
+    position: absolute;
+    top: 5vh;
+    right: 0;
+    background-color: #333333;
+    /* width: 100%; */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .nav-link {
+    color: #FAF3E0;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .nav-link:hover {
+    color: #800000;
+  }
+  
+  .nav-hamburger {
+    display: none;
+  }
+
+  .nav-right ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    gap:10px;
+    padding-right:10px;
+    align-items: center;
+    text-align: center;
+    margin:auto;
+}
+  /* .nav-cont{
+    width:100vw;
+    margin:0px ;
+    padding:0px;
+    opacity: .8;
+    position: fixed;
+    top:20px;
+    z-index:6
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    width:80vw;
+    height:5vh;
+    margin:auto;
+    margin-top:10px;
+    background-color: #333333;
+    border-radius:10px;
+    color:#FAF3E0;
+    font-size: 1.2rem;
+}
+
+.nav-left{
+    margin-left: 10px;
+}
+.nav-right ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    gap:10px;
+    padding-right:10px;
+    align-items: center;
+    text-align: center;
+    margin:auto;
+}
+
+.nav-link:hover {
+    color:#800000 
+  }
+  
+
+
+.para_col {
+    color: #FAF3E0; 
+    cursor: pointer;
+    transition: color 0.3s ease;
+    border-bottom: #333333;
+} */
+  
+  
+  @media (max-width: 900px) {
+    .nav-right {
+      display: none;
+    }
+  
+    .nav-hamburger {
+      display: block;
+    }
+    .nav-right ul{
+        display: flex;
+        flex-direction: column;
+        /* width:min-content; */
+        list-style: none;
+        width:30vw;
+        justify-content: flex-end ;
+    }
+  }
+  
+  
+
+
+  
