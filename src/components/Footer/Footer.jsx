@@ -6,6 +6,7 @@ function Footer() {
         <div className="foot-cont">
             <div className="foot-left">
                 <p>@2024-25 all rights reserved</p>
+                <p>Bhoomika Shukla</p>
             </div>
         </div>
     </>
