@@ -21,7 +21,23 @@ import asset from '../../../assets/asset.js';
         { name: "Shri Annapurna Temple", location: "Indore", imageUrl: asset.Annapurna_temp },
         { name: "Maa Sharda Devi Temple", location: "Maihar", imageUrl: asset.Sharda_maa_temp },
         { name: "The Virateshwar Temple", location: "Shahdol", imageUrl: asset.Virateshwar_temple },
-        { name: "Ramvan Temple", location: "Satna", imageUrl: asset.Ramvan_temp }
+        { name: "Ramvan Temple", location: "Satna", imageUrl: asset.Ramvan_temp },
+        { name: "Shree Matangeshwar Temple", location: "Khajuraho", imageUrl: asset.Matangeshwar_Temple_17 },
+        { name: "Shree 108 Prannath Ji Temple", location: "Panna", imageUrl: asset.Shree_108 },
+        { name: "Shree Chintaman Ganesh", location: "Ujjain", imageUrl: asset.Shri_chintamani_Ganesh_Temple_19 },
+        { name: "Pasupati Nath Temple", location: "Satna", imageUrl: asset.Pasupati_Nath_Temple_20 },
+        { name: "Shri Kamta Nath Mandir", location: "Chitrakoot", imageUrl: asset.Kamta_Nath_21 },
+        { name: "Chaturbhuj Temple", location: "Khajuraho", imageUrl: asset.Chaturbhuj_Temple_22 },
+        { name: "Chaturbhuj Temple", location: "Orccha", imageUrl: asset.Chaturbhuj_Temple_23 },
+        { name: "Siddheshwar Hanuman ji", location: "Simariya", imageUrl: asset.siddhesh_hanuman_24 },
+        { name: "Shri Jugal Kishore Ji Temple", location: "Panna", imageUrl: asset.jugal_kishore_25 },
+        { name: "Jatashankar Mandir", location: "Damoh", imageUrl: asset.jatasankar_26 },
+        { name: "Narmada Ghat", location: "Dindori", imageUrl: asset.Narmada_27 },
+        { name: "Dharmrajeshwar Temple", location: "Mandsaur", imageUrl: asset.Dharmarajeshwar_28 },
+        { name: "Shree Adya Katyayani Shaktipeeth", location: "Chhatarpur", imageUrl: asset.Adya_29 },
+        { name: "Godawal Dham Temple", location: "(Beohari) Shahdol", imageUrl: asset.Godawal_Dham_30 },
+        { name: "Birla Mandir", location: "Bhopal", imageUrl: asset.Birla_31 },
+        { name: "Bija Mandal Temple", location: "Vidisha", imageUrl: asset.Bija_mandir_32 }
       ];
 
       function Card({ name, location, imageUrl }) {

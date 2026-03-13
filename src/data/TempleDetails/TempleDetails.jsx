@@ -78,6 +78,30 @@ const templeData = [
           <p>
             The best time to visit the Shree Mahakaleshwar Temple is during the cooler months of October to March when the weather is pleasant. However, the temple attracts large crowds during major festivals, especially during Maha Shivaratri. While visiting during festivals is an enriching experience, visitors may prefer to visit during non-festival months to avoid the rush and experience a more peaceful environment.
           </p>
+          {/* Nearby Hotels Section */}
+          <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.google.com/aclk?sa=l&ai=DChsSEwiC4tnJtZ2TAxUXmKYDHZQYHDUYACICCAEQExoCdGI&co=1&ase=2&gclid=CjwKCAjw687NBhB4EiwAQ645dn9h8mZjyU8CL1avplmKG_xbc7mVfhU3Nn8J7fZVvj_wbAlOAEoB6RoCpQgQAvD_BwE&cid=CAAS0wHkaBQ93WBGduEGLYV-hg3rXbcLgwD7OacuaGsk31rrXuZ7WxvRQQFzj962aIDv1S3XB8KQDT1Aw69IxkjKb3KYuD-BB82Knq2Yv2QxSA2I05ldMPYoehLbB9gE6FxjEpowXZh9RPmTqo53B4IxAs-EKAHGQfgch5TybCh3_Lh4gksS7bNdd60WTgtqaLmCSdrgchhYwBczJYI0Eo-HocD-rUWxZtwL5U1EAkdTp8K_4qjFrTIOfrFaQkM6JMOfYNwtoLT8wstTWJXU8NEJf7agpWtS&category=acrcp_v1_48&sig=AOD64_3xqQVWjmfBLQttBGVlSZSabUZ6dg&adurl=&ved=2ahUKEwi24NHJtZ2TAxXnsFYBHU42OHkQhrUFegQICBAI" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Hotel Atlas Palace
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.booking.com/hotel/in/shree-krishna-palace-ujjain.en-gb.html?label=metagha-link-LUIN-hotel-12173495_dev-desktop_los-1_bw-0_dow-Friday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-21415141192_mcid-10_ppa-1_clrid-0_ad-1_gstkid-0_checkin-20260313_ppt-_lp-2356_r-13872165346913821927&utm_source=metagha&utm_medium=localuniversal&utm_term=hotel-12173495&utm_content=dev-desktop_los-1_bw-0_dow-Friday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-21415141192_mcid-10_ppa-1_clrid-0_ad-1_gstkid-0_checkin-20260313_ppt-&utm_campaign=IN&gclid=CjwKCAjw687NBhB4EiwAQ645dn9h8mZjyU8CL1avplmKG_xbc7mVfhU3Nn8J7fZVvj_wbAlOAEoB6RoCpQgQAvD_BwE&aid=2419802&ucfs=1&arphpl=1&checkin=2026-03-13&checkout=2026-03-14&dest_id=12173495&dest_type=hotel&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=5cb77c3f173002c6&srepoch=1773423729&all_sr_blocks=1054637201_377863444_2_0_0&highlighted_blocks=1054637201_377863444_2_0_0&matching_block_id=1054637201_377863444_2_0_0&sr_pri_blocks=1054637201_377863444_2_0_0__200000&from=searchresults" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Hotel Shree Krishna Palace
+              </a>
+            </li>
+          </ul>
       
           <h3>Conclusion</h3>
           <p>
@@ -162,6 +186,31 @@ const templeData = [
           <p>
             The best time to visit Shri Kaal Bhairav Temple is during the cooler months of October to March, when the weather in Ujjain is pleasant. The temple is open year-round, but visiting during the festivals, particularly Maha Shivaratri, will provide a unique and immersive experience. However, be prepared for larger crowds during the festive season.
           </p>
+
+                    {/* Nearby Hotels Section */}
+                    <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.google.com/aclk?sa=l&ai=DChsSEwiC4tnJtZ2TAxUXmKYDHZQYHDUYACICCAEQExoCdGI&co=1&ase=2&gclid=CjwKCAjw687NBhB4EiwAQ645dn9h8mZjyU8CL1avplmKG_xbc7mVfhU3Nn8J7fZVvj_wbAlOAEoB6RoCpQgQAvD_BwE&cid=CAAS0wHkaBQ93WBGduEGLYV-hg3rXbcLgwD7OacuaGsk31rrXuZ7WxvRQQFzj962aIDv1S3XB8KQDT1Aw69IxkjKb3KYuD-BB82Knq2Yv2QxSA2I05ldMPYoehLbB9gE6FxjEpowXZh9RPmTqo53B4IxAs-EKAHGQfgch5TybCh3_Lh4gksS7bNdd60WTgtqaLmCSdrgchhYwBczJYI0Eo-HocD-rUWxZtwL5U1EAkdTp8K_4qjFrTIOfrFaQkM6JMOfYNwtoLT8wstTWJXU8NEJf7agpWtS&category=acrcp_v1_48&sig=AOD64_3xqQVWjmfBLQttBGVlSZSabUZ6dg&adurl=&ved=2ahUKEwi24NHJtZ2TAxXnsFYBHU42OHkQhrUFegQICBAI" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Hotel Atlas Palace
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.booking.com/hotel/in/shree-krishna-palace-ujjain.en-gb.html?label=metagha-link-LUIN-hotel-12173495_dev-desktop_los-1_bw-0_dow-Friday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-21415141192_mcid-10_ppa-1_clrid-0_ad-1_gstkid-0_checkin-20260313_ppt-_lp-2356_r-13872165346913821927&utm_source=metagha&utm_medium=localuniversal&utm_term=hotel-12173495&utm_content=dev-desktop_los-1_bw-0_dow-Friday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-21415141192_mcid-10_ppa-1_clrid-0_ad-1_gstkid-0_checkin-20260313_ppt-&utm_campaign=IN&gclid=CjwKCAjw687NBhB4EiwAQ645dn9h8mZjyU8CL1avplmKG_xbc7mVfhU3Nn8J7fZVvj_wbAlOAEoB6RoCpQgQAvD_BwE&aid=2419802&ucfs=1&arphpl=1&checkin=2026-03-13&checkout=2026-03-14&dest_id=12173495&dest_type=hotel&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=5cb77c3f173002c6&srepoch=1773423729&all_sr_blocks=1054637201_377863444_2_0_0&highlighted_blocks=1054637201_377863444_2_0_0&matching_block_id=1054637201_377863444_2_0_0&sr_pri_blocks=1054637201_377863444_2_0_0__200000&from=searchresults" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Hotel Shree Krishna Palace
+              </a>
+            </li>
+          </ul>
       
           <h3>Conclusion</h3>
           <p>
@@ -245,7 +294,33 @@ const templeData = [
           <p>
             The serene environment of Omkareshwar, along with the divine atmosphere of the temple, makes it a must-visit destination for anyone seeking spiritual solace and peace. The temple’s rich history, combined with its peaceful location, allows visitors to experience the perfect blend of spirituality and natural beauty.
           </p>
-      
+
+          {/* Nearby Hotels Section */}
+          <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.booking.com/hotel/in/sitaram-atithi-grha.en-gb.html?label=godarpura-1INXsNd1TVhVHwo2RcQdAQS638067190686%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-338832920524%3Alp1007792%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YZnKoGAh3tLo4KI-ly9i1cM&gclid=CjwKCAjw687NBhB4EiwAQ645dhpDGopckzNY7ZySQ35-4uZUydvWCtMJqhGZQ34PLe1L_1G175E1QhoCzy8QAvD_BwE&aid=306395&source=landing" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Sitaram Atithi Grha
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.booking.com/hotel/in/siddhi-vinayak-omkareshwar-omkareshwar.en-gb.html?label=godarpura-1INXsNd1TVhVHwo2RcQdAQS638067190686%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-338832920524%3Alp1007792%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YZnKoGAh3tLo4KI-ly9i1cM&gclid=CjwKCAjw687NBhB4EiwAQ645dhpDGopckzNY7ZySQ35-4uZUydvWCtMJqhGZQ34PLe1L_1G175E1QhoCzy8QAvD_BwE&aid=306395&source=landing" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Hotel siddhi vinayak omkareshwar
+              </a>
+            </li>
+          </ul>
+
+
           <h3>Conclusion</h3>
           <p>
             Shri Omkareshwar Jyotirlinga Temple is a significant pilgrimage site and a treasure trove of religious and historical significance. With its serene location, rich history, and profound spiritual energy, it is a must-visit destination for anyone seeking the blessings of Lord Shiva. Whether you are on a spiritual journey or simply looking to connect with India’s rich cultural heritage, Omkareshwar offers a peaceful and divine experience that will leave you with lasting memories. The experience of visiting this sacred temple, located amidst the natural beauty of the Narmada River, will surely bring tranquility to your soul and open your heart to the divine presence of Lord Shiva.
@@ -335,6 +410,31 @@ const templeData = [
             The Amarkantak Wildlife Sanctuary, home to a variety of flora and fauna, is another attraction in the area. Visitors can also explore the nearby waterfalls, such as the Kapildhara Waterfall and the Dudh Dhara Waterfall, which add to the charm of this tranquil town. The peaceful atmosphere, combined with the spiritual significance of the temple, makes Amarkantak a unique and serene destination for pilgrims and nature lovers alike.
           </p>
       
+                    {/* Nearby Hotels Section */}
+                    <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.kayak.co.in/hotels/Amarkantak-p16399-h1071492594/2026-03-20/2026-03-21/2adults;map?sort=rank_a" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Hotel Shyam
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.kayak.co.in/hotels/Amarkantak-p16399-h1071492594/2026-03-20/2026-03-21/2adults/hid-6141005;map?sort=rank_a" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Hotel Temple Tree
+              </a>
+            </li>
+          </ul>
+
           <h3>Conclusion</h3>
           <p>
             Narmada Udgam Temple is not just a place of worship but a spiritual destination where the divine energies of Lord Shiva and the Narmada River come together. Its religious significance, combined with its natural beauty, makes it an important pilgrimage site for Hindus. The serene environment, the sacred origin of the Narmada River, and the temple’s rich history provide a memorable and spiritually enriching experience for all visitors.
@@ -429,6 +529,33 @@ const templeData = [
           <p>
             The nearby **Chitrakoot Waterfalls** is one of the most picturesque spots in the region, where visitors can enjoy the beauty of nature and experience peace amidst the sound of cascading water. The town is surrounded by lush green forests, making it an ideal destination for nature lovers.
           </p>
+
+          {/* Nearby Hotels Section */}
+          <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.booking.com/hotel/in/sri-vaidehi-bhawan.en-gb.html?label=chitrakoot-VfxL0Ta9120Pq1HdhE6RAgS778934119870%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-17843899349%3Alp1007792%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YX-SVbABBf1_4_myCsGQXgE&sid=15a98d9bdcdfecebbf76530e93999231&gclid=CjwKCAjw687NBhB4EiwAQ645drk9QzRMNvCJ1BGv_vUtWau3DbcoJldl530ICw858JlRzbbezIfkjhoCrU8QAvD_BwE&aid=306395&ucfs=1&arphpl=1&checkin=2026-03-13&checkout=2026-03-14&dest_id=900063451&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=9a3a7df9871d0259&srepoch=1773424586&all_sr_blocks=1589615801_430063396_2_0_0&highlighted_blocks=1589615801_430063396_2_0_0&matching_block_id=1589615801_430063396_2_0_0&sr_pri_blocks=1589615801_430063396_2_0_0__170000&from=searchresults" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                SRI Vaidehi Bhawan
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.booking.com/hotel/in/ma-parvati-residency.en-gb.html?label=chitrakoot-VfxL0Ta9120Pq1HdhE6RAgS778934119870%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-17843899349%3Alp1007792%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YX-SVbABBf1_4_myCsGQXgE&sid=15a98d9bdcdfecebbf76530e93999231&gclid=CjwKCAjw687NBhB4EiwAQ645drk9QzRMNvCJ1BGv_vUtWau3DbcoJldl530ICw858JlRzbbezIfkjhoCrU8QAvD_BwE&aid=306395&ucfs=1&arphpl=1&checkin=2026-03-13&checkout=2026-03-14&dest_id=900063451&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=9a3a7df9871d0259&srepoch=1773424519&all_sr_blocks=1368191601_409059826_2_0_0&highlighted_blocks=1368191601_409059826_2_0_0&matching_block_id=1368191601_409059826_2_0_0&sr_pri_blocks=1368191601_409059826_2_0_0__55000&from=searchresults" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                
+                Hotel Ma Parvati Residency
+
+              </a>
+            </li>
+          </ul>
       
           <h3>Conclusion</h3>
           <p>
@@ -534,6 +661,32 @@ const templeData = [
       The **Chitrakoot Waterfalls** is another popular tourist attraction, offering breathtaking views of nature and a serene environment for visitors. The town is surrounded by lush green forests, making it an ideal destination for nature lovers and spiritual seekers alike.
     </p>
 
+          {/* Nearby Hotels Section */}
+          <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.booking.com/hotel/in/sri-vaidehi-bhawan.en-gb.html?label=chitrakoot-VfxL0Ta9120Pq1HdhE6RAgS778934119870%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-17843899349%3Alp1007792%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YX-SVbABBf1_4_myCsGQXgE&sid=15a98d9bdcdfecebbf76530e93999231&gclid=CjwKCAjw687NBhB4EiwAQ645drk9QzRMNvCJ1BGv_vUtWau3DbcoJldl530ICw858JlRzbbezIfkjhoCrU8QAvD_BwE&aid=306395&ucfs=1&arphpl=1&checkin=2026-03-13&checkout=2026-03-14&dest_id=900063451&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=9a3a7df9871d0259&srepoch=1773424586&all_sr_blocks=1589615801_430063396_2_0_0&highlighted_blocks=1589615801_430063396_2_0_0&matching_block_id=1589615801_430063396_2_0_0&sr_pri_blocks=1589615801_430063396_2_0_0__170000&from=searchresults" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                SRI Vaidehi Bhawan
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.booking.com/hotel/in/ma-parvati-residency.en-gb.html?label=chitrakoot-VfxL0Ta9120Pq1HdhE6RAgS778934119870%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-17843899349%3Alp1007792%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YX-SVbABBf1_4_myCsGQXgE&sid=15a98d9bdcdfecebbf76530e93999231&gclid=CjwKCAjw687NBhB4EiwAQ645drk9QzRMNvCJ1BGv_vUtWau3DbcoJldl530ICw858JlRzbbezIfkjhoCrU8QAvD_BwE&aid=306395&ucfs=1&arphpl=1&checkin=2026-03-13&checkout=2026-03-14&dest_id=900063451&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=9a3a7df9871d0259&srepoch=1773424519&all_sr_blocks=1368191601_409059826_2_0_0&highlighted_blocks=1368191601_409059826_2_0_0&matching_block_id=1368191601_409059826_2_0_0&sr_pri_blocks=1368191601_409059826_2_0_0__55000&from=searchresults" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                
+                Hotel Ma Parvati Residency
+
+              </a>
+            </li>
+          </ul>
     <h3>Conclusion</h3>
     <p>
       The Bharat Milap Temple is a sacred site that holds immense religious and emotional significance for devotees of Lord Rama. It is a place where one can experience the power of devotion, love, and sacrifice, as exemplified by the great moment of Bharat Milap. The temple’s rich history, beautiful architecture, and serene atmosphere make it an essential destination for those visiting Chitrakoot and seeking to connect with the values of loyalty, devotion, and righteousness.
@@ -616,7 +769,36 @@ const templeData = [
           <p>
             Visitors to the Shree Pashupatinath Temple can also explore the surrounding areas of Mandsaur, which is known for its rich history, temples, and cultural sites. The town is home to several ancient temples and monuments, making it an ideal destination for history enthusiasts and cultural travelers.
           </p>
-      
+
+          {/* Nearby Hotels Section */}
+          <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.google.com/travel/search?q=hotels%20in%20mandsaur&g2lb=4965990%2C72471280%2C72560029%2C72573224%2C72647020%2C72686036%2C72803964%2C72882230%2C72958624%2C73059275%2C73064764%2C73249147&hl=en-IN&gl=in&cs=1&ssta=1&ts=CAESCgoCCAMKAggDEAAaUQozEjEyJTB4Mzk2NDJlYTlkYjE1ZTA5ZjoweDg5YTNlNWVhNDM5OTY5NWI6CE1hbmRzYXVyEhoSFAoHCOoPEAMYDxIHCOoPEAMYEBgBMgIQACoHCgU6A0lOUg&qs=CAEyJ0Noa0k1YmVFdGUyM19hQktHZzB2Wnk4eE1YSjJOV3ByZW1ZeUVBRTgGQgkRiik4WvVMW4hCCRHFjZDP3fGwv0IJEauic87hYNS5WkwySqoBRxABKgoiBmhvdGVscygAMh8QASIb8Spw79FGvRm_F7AWlR7HYMdOZVOB8CDwOuG5MhYQAiISaG90ZWxzIGluIG1hbmRzYXVy&ap=aAE&ictx=111&ved=2ahUKEwiD2czwuZ2TAxUNpGYCHcQgEa0QyvcEegQIAxAo" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                
+                Hotel Harshvilas Fort
+
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.google.com/travel/search?q=hotels%20in%20mandsaur&g2lb=4965990%2C72471280%2C72560029%2C72573224%2C72647020%2C72686036%2C72803964%2C72882230%2C72958624%2C73059275%2C73064764%2C73249147&hl=en-IN&gl=in&cs=1&ssta=1&ts=CAESCgoCCAMKAggDEAAaUQozEjEyJTB4Mzk2NDJlYTlkYjE1ZTA5ZjoweDg5YTNlNWVhNDM5OTY5NWI6CE1hbmRzYXVyEhoSFAoHCOoPEAMYDxIHCOoPEAMYEBgBMgIQACoHCgU6A0lOUg&qs=CAEyJ0Noa0lrNnFsbU9DaDVJbUFBUm9NTDJjdk1URm5YekJvTlRCc0VBRTgGQgkRiik4WvVMW4hCCRHFjZDP3fGwv0IJEauic87hYNS5WkwySqoBRxABKgoiBmhvdGVscygAMh8QASIb8Spw79FGvRm_F7AWlR7HYMdOZVOB8CDwOuG5MhYQAiISaG90ZWxzIGluIG1hbmRzYXVy&ap=KigKEglSLfHkBAM4QBE-rg29GMFSQBISCSwZDjwOGzhAET6uDW2tx1JA&ictx=111&ved=2ahUKEwiD2czwuZ2TAxUNpGYCHcQgEa0QyvcEegQIAxBG" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+              Padmawati hotel & resort
+
+
+              </a>
+            </li>
+          </ul>
+
           <h3>Conclusion</h3>
           <p>
             The Shree Pashupatinath Temple in Mandsaur is a sacred and spiritually enriching destination for all those who seek the divine presence of Lord Shiva. Its architectural beauty, historical significance, and deep spiritual importance make it one of the most revered temples in India. Whether you are visiting for prayer, seeking spiritual guidance, or simply exploring the rich cultural heritage of the region, the Pashupatinath Temple offers a serene and uplifting experience that will remain with you long after you leave.
@@ -699,6 +881,31 @@ const templeData = [
           <p>
             Visitors to Bhedaghat can also explore other attractions in the area, such as the **Dhuandhar Waterfalls**, which is a popular tourist spot known for its breathtaking beauty. The nearby **Marble Rocks** is another must-visit destination in Bhedaghat, offering picturesque views of the Narmada River.
           </p>
+
+          {/* Nearby Hotels Section */}
+          <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Sukoon+Resort/data=!4m10!3m9!1s0x3981b3ea16f99d2f:0x61ed7fd7125d41ba!5m2!4m1!1i2!8m2!3d23.1037111!4d79.8804863!16s%2Fg%2F11j7czhvzc!19sChIJL535FuqzgTkRukFdEtd_7WE?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Sukoon Resort
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Krishnam+resort/data=!4m10!3m9!1s0x3981b1ca8c820d6d:0xabe3bdb1138502a1!5m2!4m1!1i2!8m2!3d23.2142821!4d79.8852229!16s%2Fg%2F11p5hqg1zk!19sChIJbQ2CjMqxgTkRoQKFE7G946s?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+              Krishnam resort
+              </a>
+            </li>
+          </ul>
       
           <h3>Conclusion</h3>
           <p>
@@ -797,7 +1004,32 @@ const templeData = [
         <p>
           The best time to visit Kandariya Mahadeva Temple is during the cooler months, from October to March. The Khajuraho Dance Festival in February is a particularly attractive time, offering not only comfortable weather but also an enriching cultural experience. Avoid visiting during peak summer months (April to June), when temperatures can be extremely high.
         </p>
-    
+
+        {/* Nearby Hotels Section */}
+        <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/HOTEL+KHAJURAHO+INN/data=!4m10!3m9!1s0x3982ef6409f64dd1:0x986b419133d0101f!5m2!4m1!1i2!8m2!3d24.839389!4d79.9209046!16s%2Fg%2F11bwqbt_n_!19sChIJ0U32CWTvgjkRHxDQM5FBa5g?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Hotel Khajuraho Inn
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+isabel+Palace,+Khajuraho/data=!4m10!3m9!1s0x3982e5f8128a4283:0x1037ddc745f74f12!5m2!4m1!1i2!8m2!3d24.8375873!4d79.9182815!16s%2Fg%2F12hq4lcwt!19sChIJg0KKEvjlgjkREk_3RcfdNxA?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+              Hotel isabel Palace, Khajuraho
+              </a>
+            </li>
+          </ul>
+
         <h3>Conclusion</h3>
         <p>
           Kandariya Mahadeva Temple is a masterpiece of Indian temple architecture and spiritual symbolism. Whether you're a devotee of Lord Shiva, an admirer of historical art, or a seeker of cultural depth, this temple offers a deeply enriching experience. Its sacredness, craftsmanship, and narrative beauty make it a must-visit destination for anyone exploring India's spiritual and artistic heritage.
@@ -877,6 +1109,31 @@ const templeData = [
             Once at the temple, visitors can explore the inner sanctum, view the massive Shiva Lingam, and spend time reflecting on the temple's significance. The view of the **Betwa River** flowing nearby adds a sense of serenity to the overall experience.
           </p>
       
+                          {/* Nearby Hotels Section */}
+                          <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+Midtown/data=!4m10!3m9!1s0x3992bae811a8ebf5:0xaa6ffcaecb14b9a!5m2!4m1!1i2!8m2!3d25.7821234!4d84.7428342!16s%2Fg%2F1tdpq1p6!19sChIJ9euoEei6kjkRmkux7Mr_pgo?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Hotel Midtown
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+Shiv+Shakti/data=!4m10!3m9!1s0x397c380d01c6de71:0xbc422c1591a8f834!5m2!4m1!1i2!8m2!3d23.0997247!4d77.5706778!16s%2Fg%2F11gmysf1t6!19sChIJcd7GAQ04fDkRNPiokRUsQrw?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+              Hotel Shiv Shakti
+              </a>
+            </li>
+          </ul>
+
           <h3>Conclusion</h3>
           <p>
             The **Bhojeshwar Mahadev Temple** is not only an architectural marvel but also a spiritual sanctuary for those seeking divine connection with Lord Shiva. Its grandeur, historical relevance, and deep spiritual meaning make it a prominent landmark in Madhya Pradesh. Whether you are a spiritual seeker, a history lover, or someone who enjoys exploring ancient monuments, this temple offers a unique and enriching experience. It continues to stand as a reminder of Raja Bhoj’s devotion to Lord Shiva and his contribution to India’s architectural and cultural heritage.
@@ -951,6 +1208,31 @@ const templeData = [
             Visitors can take a **guided tour** of the temple and the nearby historical structures in Orchha, including the **Orchha Fort Complex**, **Jahangir Mahal**, and **Raj Mahal**. Exploring Orchha is like stepping back in time, as the town is filled with ancient palaces, temples, and structures that tell the story of its royal past.
           </p>
       
+          {/* Nearby Hotels Section */}
+          <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Farm+Green+View+Resort,+Orchha/data=!4m10!3m9!1s0x39777918e0eab529:0x85f569a5037ed18c!5m2!4m1!1i2!8m2!3d25.3399594!4d78.6040311!16s%2Fg%2F11fy_pt9j9!19sChIJKbXq4Bh5dzkRjNF-A6Vp9YU?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Farm Green View Resort
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+Shri+Mahant/data=!4m10!3m9!1s0x3977788d5d65c87b:0x1d267ea2172ddb26!5m2!4m1!1i2!8m2!3d25.3519024!4d78.6356718!16s%2Fg%2F11bw4z712_!19sChIJe8hlXY14dzkRJtstF6J-Jh0?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+              Hotel Shri Mahant
+              </a>
+            </li>
+          </ul>
+
           <h3>Conclusion</h3>
           <p>
             The **Shri Ram Raja Mandir** in Orchha is a unique blend of **spirituality** and **royalty**, where Lord Rama is revered as the **king of the land**. It stands as a symbol of **divine rule**, where the connection between the deity and the royal family is celebrated. This temple offers visitors a glimpse into the rich cultural and historical heritage of Orchha, making it not just a religious destination but also an important part of India’s architectural and spiritual legacy.
@@ -1029,6 +1311,31 @@ const templeData = [
           <p>
             **Local accommodation** options are available in Ratangarh and nearby towns. Visitors can find a variety of hotels, lodges, and guesthouses to stay in, ranging from budget to mid-range options. The temple also offers **prasad** and **food offerings** to the devotees, which adds to the experience of visiting this sacred site.
           </p>
+
+          {/* Nearby Hotels Section */}
+          <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+Raj+Palace/data=!4m10!3m9!1s0x3966739fe427d069:0x261fd19e4e7c8b97!5m2!4m1!1i2!8m2!3d24.463192!4d74.8519924!16s%2Fg%2F1hm3lsjw7!19sChIJadAn5J9zZjkRl4t8Tp7RHyY?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Hotel Raj Palace
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+Bharat+Palace/data=!4m10!3m9!1s0x396673d09ad2a86b:0xaf24c173178c4a88!5m2!4m1!1i2!8m2!3d24.456476!4d74.8738287!16s%2Fg%2F11jyxnfq3g!19sChIJa6jSmtBzZjkRiEqMF3PBJK8?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+              Hotel Bharat Palace
+              </a>
+            </li>
+          </ul>
       
           <h3>Conclusion</h3>
           <p>
@@ -1108,6 +1415,30 @@ const templeData = [
           <p>
             Visitors to the **Shri Annapurna Temple** can explore the surrounding areas, including the bustling markets of **Indore**, which offer local handicrafts, spices, and other cultural treasures. The city is also home to other historical and cultural sites, such as the **Rajwada Palace** and the **Lal Baag Palace**, making it a great place for tourists to visit.
           </p>
+
+          {/* Nearby Hotels Section */}
+          <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+New+Sunder/data=!4m10!3m9!1s0x3962fd14a626960f:0x4b8926426c986e87!5m2!4m1!1i2!8m2!3d22.7151352!4d75.8728136!16s%2Fg%2F1tdk_zjj!19sChIJD5YmphT9YjkRh26YbEImiUs?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Hotel New Sunder
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Kiwi+Inn+Hotel/data=!4m10!3m9!1s0x3962fda2922dc82b:0x30bbaebb99607ce9!5m2!4m1!1i2!8m2!3d22.7028539!4d75.8616999!16s%2Fg%2F11sv1d2nz4!19sChIJK8gtkqL9YjkR6XxgmbuuuzA?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+              Kiwi Inn Hotel </a>
+            </li>
+          </ul>
       
           <h3>Conclusion</h3>
           <p>
@@ -1179,6 +1510,30 @@ const templeData = [
           <p>
             The temple is open throughout the year, and it is best to visit during the winter months, between **October to March**, as the weather is pleasant and the journey to the temple becomes more enjoyable. The temple is located about **2 km** from the **Maihar** bus stand, and taxis and auto-rickshaws are available for transport to the temple.
           </p>
+
+          {/* Nearby Hotels Section */}
+          <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Kadambari+Hotel+and+Restaurant/data=!4m10!3m9!1s0x39838b251cb7a71b:0xef92483d1eb75859!5m2!4m1!1i2!8m2!3d24.257435!4d80.756453!16s%2Fg%2F11b7hynqbp!19sChIJG6e3HCWLgzkRWVi3Hj1Iku8?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Kadambari Hotel and Restaurant
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Jai+shri+Yatri+Niwas/data=!4m10!3m9!1s0x39838bd040214627:0xdddcd8acea3c50fa!5m2!4m1!1i2!8m2!3d24.2648375!4d80.749272!16s%2Fg%2F11gnq98w2p!19sChIJJ0YhQNCLgzkR-lA86qzY3N0?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+              Jai shri Yatri Niwas </a>
+            </li>
+          </ul>
       
           <h3>Conclusion</h3>
           <p>
@@ -1253,6 +1608,30 @@ const templeData = [
           <p>
             While in Shahdol, visitors can also explore nearby tourist attractions, such as **Bansagar Dam**, **Chirhula Waterfall**, and the **Pachmarhi Hill Station**, which offer natural beauty and recreational activities. The area surrounding the temple is calm and unspoiled, providing a perfect setting for spiritual reflection and quiet moments of meditation.
           </p>
+
+          {/* Nearby Hotels Section */}
+          <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/hotel+maharaja+palace+shahdol/data=!4m10!3m9!1s0x3986fb9d823625cd:0x3513128554de2880!5m2!4m1!1i2!8m2!3d23.3017676!4d81.3617934!16s%2Fg%2F11p6hww09q!19sChIJzSU2gp37hjkRgCjeVIUSEzU?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                hotel maharaja palace shahdol
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+Aman+Palace/data=!4m10!3m9!1s0x3986fac38f541207:0xaa6101b590446b01!5m2!4m1!1i2!8m2!3d23.3140699!4d81.3636511!16s%2Fg%2F1hm50pzgk!19sChIJBxJUj8P6hjkRAWtEkLUBYao?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+              Hotel Aman Palace</a>
+            </li>
+          </ul>
       
           <h3>Conclusion</h3>
           <p>
@@ -1333,6 +1712,30 @@ const templeData = [
           <p>
             The temple is located near the foothills, surrounded by natural beauty, which makes it a pleasant place to visit. Devotees often take a walk around the temple or relax in the peaceful surroundings before entering the sanctum to offer their prayers.
           </p>
+
+          {/* Nearby Hotels Section */}
+          <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+Pankaj/data=!4m10!3m9!1s0x39847f06916c141f:0xd9a983deb7e4ef6c!5m2!4m1!1i2!8m2!3d24.5730412!4d80.8470913!16s%2Fg%2F11bx1bhfyw!19sChIJHxRskQZ_hDkRbO_kt96Dqdk?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Hotel Pankaj
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+Kwality+Inn/data=!4m10!3m9!1s0x39847f0e448ae56d:0xcd63df0005b9d277!5m2!4m1!1i2!8m2!3d24.5668591!4d80.833349!16s%2Fg%2F11ddzfcf4r!19sChIJbeWKRA5_hDkRd9K5BQDfY80?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+              Hotel Kwality Inn</a>
+            </li>
+          </ul>
       
           <h3>Conclusion</h3>
           <p>
@@ -1344,6 +1747,1583 @@ const templeData = [
         </>
       )
   },
+  {
+    id: 17,
+    name: "Shree Matangeshwar Temple",
+    location: "Khajuraho",
+    imageUrl: asset.Matangeshwar_Temple_17,
+    description: (
+      <>
+        <h2>Introduction to Shree Matangeshwar Temple</h2>
+        <p>
+          Shree Matangeshwar Temple, located in the historic town of Khajuraho in Madhya Pradesh, is one of the most revered temples dedicated to Lord Shiva. Unlike many temples in the Khajuraho complex that are primarily known for their intricate sculptures, Matangeshwar Temple remains an active place of worship where devotees gather daily to offer prayers. The temple is known for housing one of the largest Shiva Lingas in India and holds immense spiritual significance for followers of Lord Shiva.
+        </p>
+        <p>
+          Situated near the famous Western Group of Khajuraho temples, the Matangeshwar Temple stands out for its simplicity, spiritual aura, and uninterrupted worship tradition that has continued for over a thousand years. The temple attracts pilgrims, tourists, and spiritual seekers from across India and around the world.
+        </p>
+  
+        <h3>History and Origin of Shree Matangeshwar Temple</h3>
+        <p>
+          The Matangeshwar Temple was built during the reign of the Chandela dynasty around the 9th to 10th century CE. The Chandela rulers were great patrons of art, architecture, and religion, and they constructed many magnificent temples in Khajuraho. Among them, Matangeshwar Temple is believed to be one of the earliest temples built in the Khajuraho temple complex.
+        </p>
+        <p>
+          According to legends, the temple is associated with Sage Matanga, a revered saint in Hindu mythology. It is believed that the temple was constructed in honor of Lord Shiva after the sage performed deep meditation and penance in this sacred region. Because of this association, the temple was named "Matangeshwar," meaning the Lord of Sage Matanga.
+        </p>
+        <p>
+          Unlike many other temples in Khajuraho that became monuments over time, Matangeshwar Temple has remained a functioning temple where daily rituals and worship have been continuously performed for centuries.
+        </p>
+  
+        <h3>Significance of Matangeshwar Temple</h3>
+        <p>
+          The temple is particularly famous for its massive Shiva Linga, which stands approximately 8 feet tall and is placed on a large pedestal nearly 4 feet high. Devotees believe that the Lingam symbolizes the infinite cosmic power of Lord Shiva and represents the divine connection between the universe and spiritual consciousness.
+        </p>
+        <p>
+          One of the unique aspects of Matangeshwar Temple is that devotees are allowed to touch the Shiva Lingam during worship, which is not permitted in many other major temples. This creates a deeply personal and spiritual experience for devotees seeking blessings from Lord Shiva.
+        </p>
+        <p>
+          The temple holds special importance during Maha Shivaratri, when thousands of pilgrims visit to perform prayers and participate in the grand celebrations dedicated to Lord Shiva.
+        </p>
+  
+        <h3>Temple Architecture</h3>
+        <p>
+          The architecture of Matangeshwar Temple reflects the early Nagara style of temple design, which later evolved into the highly ornate temples of the Khajuraho complex. Compared to other temples in Khajuraho, Matangeshwar Temple has a relatively simple and elegant design.
+        </p>
+        <p>
+          The temple is built on a raised platform and features a tall shikhara (spire) rising above the sanctum. The main sanctum (garbhagriha) houses the large Shiva Lingam, which is the primary focus of worship. The structure is made of sandstone, a material commonly used in Khajuraho temples.
+        </p>
+        <p>
+          While the temple does not have the extensive sculptural decorations seen in nearby temples like Kandariya Mahadeva Temple, its architectural beauty lies in its simplicity, symmetry, and spiritual ambiance. The temple’s interior creates a peaceful environment where devotees can meditate and offer prayers.
+        </p>
+  
+        <h3>Rituals and Worship at Matangeshwar Temple</h3>
+        <p>
+          Matangeshwar Temple remains an active place of worship where daily rituals and prayers are performed by temple priests. Devotees visit the temple throughout the day to perform Abhishek (ritual bathing of the Shiva Lingam) with milk, water, honey, and sacred offerings.
+        </p>
+        <p>
+          The temple follows traditional Hindu worship practices, including morning and evening aartis, chanting of mantras, and offerings of flowers and bilva leaves to Lord Shiva. The sacred environment of the temple makes it a powerful place for meditation and spiritual reflection.
+        </p>
+        <p>
+          During special occasions and religious ceremonies, the temple becomes a vibrant center of devotion where devotees gather to seek blessings and participate in sacred rituals.
+        </p>
+  
+        <h3>Festivals Celebrated at Shree Matangeshwar Temple</h3>
+        <p>
+          Maha Shivaratri is the most important festival celebrated at Matangeshwar Temple. During this occasion, thousands of devotees visit the temple to worship Lord Shiva and participate in night-long prayers and rituals. The temple is beautifully decorated with flowers, lights, and traditional decorations.
+        </p>
+        <p>
+          Devotees perform special pujas and offer sacred items such as milk, fruits, flowers, and bilva leaves to the Shiva Lingam. The atmosphere during the festival is filled with devotional chants, spiritual energy, and religious celebrations.
+        </p>
+        <p>
+          Other Hindu festivals such as Shravan month celebrations, Nag Panchami, and Kartik festivals are also observed with devotion and special rituals.
+        </p>
+  
+        <h3>Visiting Shree Matangeshwar Temple</h3>
+        <p>
+          Matangeshwar Temple is located within the Khajuraho temple complex in the Chhatarpur district of Madhya Pradesh. The temple is easily accessible and is situated close to the Western Group of Temples, which is recognized as a UNESCO World Heritage Site.
+        </p>
+        <p>
+          Khajuraho is well connected by road, rail, and air. The nearest airport is Khajuraho Airport, while the nearest major railway station is Khajuraho Railway Station. Tourists visiting the temple often combine their visit with exploration of other famous temples and monuments in the Khajuraho complex.
+        </p>
+        <p>
+          Visitors are welcomed throughout the year, and the temple offers a serene and spiritual atmosphere for both pilgrims and travelers interested in history and architecture.
+        </p>
+  
+        <h3>Best Time to Visit</h3>
+        <p>
+          The best time to visit Matangeshwar Temple is between October and March when the weather in Khajuraho is pleasant and comfortable for sightseeing and temple visits. During these months, visitors can explore the entire Khajuraho temple complex without the extreme heat of summer.
+        </p>
+        <p>
+          Visiting during Maha Shivaratri is particularly special, as the temple becomes a vibrant center of devotion and celebration. However, those seeking a quieter spiritual experience may prefer visiting during non-festival days.
+        </p>
+
+          {/* Nearby Hotels Section */}
+          <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/HOTEL+KHAJURAHO+INN/data=!4m10!3m9!1s0x3982ef6409f64dd1:0x986b419133d0101f!5m2!4m1!1i2!8m2!3d24.839389!4d79.9209046!16s%2Fg%2F11bwqbt_n_!19sChIJ0U32CWTvgjkRHxDQM5FBa5g?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Hotel Khajuraho Inn
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+isabel+Palace,+Khajuraho/data=!4m10!3m9!1s0x3982e5f8128a4283:0x1037ddc745f74f12!5m2!4m1!1i2!8m2!3d24.8375873!4d79.9182815!16s%2Fg%2F12hq4lcwt!19sChIJg0KKEvjlgjkREk_3RcfdNxA?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+              Hotel isabel Palace, Khajuraho
+              </a>
+            </li>
+          </ul>
+  
+        <h3>Conclusion</h3>
+        <p>
+          Shree Matangeshwar Temple is a remarkable spiritual landmark in Khajuraho that beautifully represents the devotion to Lord Shiva and the architectural heritage of ancient India. With its massive Shiva Lingam, rich historical background, and continuing tradition of worship, the temple holds a unique place among the temples of Khajuraho.
+        </p>
+        <p>
+          Whether you are a pilgrim seeking divine blessings, a history enthusiast exploring ancient architecture, or a traveler interested in India's cultural heritage, Matangeshwar Temple offers a deeply meaningful and spiritual experience.
+        </p>
+      </>
+    )
+  },
+  {
+    id: 18,
+    name: "Shree 108 Prannath Ji Temple",
+    location: "Panna",
+    imageUrl: asset.Shree_108,
+    description: (
+      <>
+        <h2>Introduction to Shree 108 Prannath Ji Temple</h2>
+        <p>
+          Shree 108 Prannath Ji Temple, located in the historic town of Panna in Madhya Pradesh, is one of the most sacred temples of the Pranami sect. The temple is dedicated to Shri Prannath Ji, a revered spiritual leader and saint who founded the Pranami Sampradaya in the 17th century. Known for its spiritual importance, peaceful environment, and beautiful architecture, the temple attracts devotees and visitors from across India and abroad.
+        </p>
+        <p>
+          The temple is not only a center of religious devotion but also a symbol of unity and harmony among different faiths. The teachings of Shri Prannath Ji emphasize spiritual knowledge, devotion to the divine, and equality among all religions. Because of these teachings, the temple holds a unique place in the spiritual landscape of India.
+        </p>
+  
+        <h3>History and Origin of Shree 108 Prannath Ji Temple</h3>
+        <p>
+          Shree 108 Prannath Ji Temple is closely associated with Shri Prannath Ji Maharaj, who was born in 1618 in Jamnagar, Gujarat. He later became a great spiritual teacher who spread the message of devotion, peace, and universal brotherhood. During his spiritual journey, he came to Panna, where he met Maharaja Chhatrasal, the famous Bundela ruler.
+        </p>
+        <p>
+          Maharaja Chhatrasal became a devoted follower of Shri Prannath Ji and offered Panna as a spiritual center for the Pranami community. After Shri Prannath Ji settled in Panna, the temple was constructed in his honor. Over time, the temple became the most important pilgrimage site for followers of the Pranami faith.
+        </p>
+        <p>
+          The temple complex was developed with the support of Maharaja Chhatrasal and later rulers of the region. Today, it stands as a symbol of the spiritual legacy of Shri Prannath Ji and the rich cultural history of Panna.
+        </p>
+  
+        <h3>Spiritual Significance</h3>
+        <p>
+          Shree 108 Prannath Ji Temple holds immense significance for the followers of the Pranami Sampradaya. Unlike many Hindu temples that house idols of deities, this temple emphasizes the worship of sacred scriptures and spiritual teachings. The central focus of worship is the holy scripture called the "Tartam Sagar," which contains the divine teachings of Shri Prannath Ji.
+        </p>
+        <p>
+          The temple promotes the idea that all religions ultimately lead to the same truth. It combines elements from Hinduism, Islam, and other spiritual traditions, encouraging unity and mutual respect among followers of different faiths.
+        </p>
+        <p>
+          Devotees visit the temple to seek spiritual knowledge, inner peace, and blessings. The serene environment of the temple provides a perfect setting for meditation, prayer, and reflection.
+        </p>
+  
+        <h3>Temple Architecture</h3>
+        <p>
+          The architecture of Shree 108 Prannath Ji Temple is a beautiful blend of Rajput and Mughal architectural styles. The temple complex features grand domes, intricately carved pillars, elegant arches, and spacious courtyards that create a majestic and serene atmosphere.
+        </p>
+        <p>
+          The main structure is built with white marble and decorated with delicate carvings and ornamental designs. The temple complex includes several halls for prayer, spiritual gatherings, and religious discourses. The central sanctum houses the sacred scriptures that are revered by devotees.
+        </p>
+        <p>
+          The symmetrical layout and open spaces within the temple allow visitors to experience a sense of calm and spiritual harmony. The architectural beauty of the temple also reflects the artistic heritage of the Bundelkhand region.
+        </p>
+  
+        <h3>Rituals and Worship</h3>
+        <p>
+          The daily worship at Shree 108 Prannath Ji Temple is centered around the recitation and study of the Tartam Sagar scripture. Devotees gather to listen to spiritual teachings, sing devotional hymns, and participate in prayer sessions conducted by temple priests.
+        </p>
+        <p>
+          Unlike traditional temples where elaborate rituals are performed, the focus here is on spiritual knowledge, meditation, and devotion. The temple encourages devotees to seek inner enlightenment through understanding divine teachings.
+        </p>
+        <p>
+          Bhajans, kirtans, and spiritual discourses are regularly held in the temple, creating an atmosphere of devotion and learning for visitors and followers.
+        </p>
+  
+        <h3>Festivals Celebrated</h3>
+        <p>
+          The temple celebrates several important festivals associated with the life and teachings of Shri Prannath Ji. One of the most significant celebrations is the birth anniversary of Shri Prannath Ji, which attracts large gatherings of devotees from across the country.
+        </p>
+        <p>
+          Other major Hindu festivals such as Janmashtami, Diwali, and Holi are also celebrated with devotion and enthusiasm. During these festivals, the temple is beautifully decorated, and special prayers, devotional songs, and community gatherings are organized.
+        </p>
+        <p>
+          These celebrations provide an opportunity for devotees to come together and honor the teachings of Shri Prannath Ji while strengthening the sense of community and faith.
+        </p>
+  
+        <h3>Visiting Shree 108 Prannath Ji Temple</h3>
+        <p>
+          Shree 108 Prannath Ji Temple is located in Panna district of Madhya Pradesh and is easily accessible by road from nearby cities. The temple is situated close to other historical and natural attractions in the region, making it a popular destination for both pilgrims and tourists.
+        </p>
+        <p>
+          Panna is well connected to cities such as Khajuraho, Satna, and Chhatarpur. Visitors often combine their temple visit with trips to nearby attractions like the famous Panna National Park and the temples of Khajuraho.
+        </p>
+        <p>
+          The temple complex provides a calm and welcoming environment for visitors who wish to learn about the spiritual teachings of the Pranami sect or simply experience the peaceful atmosphere.
+        </p>
+  
+        <h3>Best Time to Visit</h3>
+        <p>
+          The best time to visit Shree 108 Prannath Ji Temple is between October and March, when the weather in Panna is pleasant and comfortable for travel. During this period, visitors can explore the temple and nearby attractions without the intense heat of the summer months.
+        </p>
+        <p>
+          Visiting during major festivals and special celebrations can also be a memorable experience, as the temple becomes vibrant with devotional activities and cultural events.
+        </p>
+
+        {/* Nearby Hotels Section */}
+        <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+W+Emerald/data=!4m10!3m9!1s0x39830387888dd0cd:0x416ea0c24bebac3!5m2!4m1!1i2!8m2!3d24.7145649!4d80.1873425!16s%2Fg%2F11b7c77y_0!19sChIJzdCNiIcDgzkRw7q-JAzqFgQ?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Hotel W Emerald
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+Shivali+Inn/data=!4m10!3m9!1s0x398305007126bd45:0x1ef1bb90a5445128!5m2!4m1!1i2!8m2!3d24.7194694!4d80.1891203!16s%2Fg%2F11w2jlztl2!19sChIJRb0mcQAFgzkRKFFEpZC78R4?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Hotel Shivali Inn
+              </a>
+            </li>
+          </ul>
+  
+        <h3>Conclusion</h3>
+        <p>
+          Shree 108 Prannath Ji Temple in Panna stands as a powerful symbol of spiritual wisdom, unity, and devotion. With its rich historical background, unique philosophy, and peaceful surroundings, the temple offers a meaningful experience for devotees, spiritual seekers, and travelers alike.
+        </p>
+        <p>
+          Whether you are interested in exploring India's spiritual traditions or seeking a place of peace and reflection, Shree 108 Prannath Ji Temple provides a deeply inspiring and enriching experience.
+        </p>
+      </>
+    )
+  },
+  {
+    id: 19,
+    name: "Shree Chintaman Ganesh Temple",
+    location: "Ujjain",
+    imageUrl: asset.Shri_chintamani_Ganesh_Temple_19,
+    description: (
+      <>
+        <h2>Introduction to Shree Chintaman Ganesh Temple</h2>
+        <p>
+          Shree Chintaman Ganesh Temple is one of the most ancient and revered temples dedicated to Lord Ganesha in Ujjain, Madhya Pradesh. The temple is widely known for its spiritual significance and is believed to relieve devotees from worries and obstacles. The name "Chintaman" comes from the belief that Lord Ganesha here removes all “Chinta” (worries) of his devotees.
+        </p>
+        <p>
+          Located on the banks of the sacred Shipra River, the temple attracts thousands of pilgrims every year who come to seek blessings for prosperity, peace, and success in life.
+        </p>
+  
+        <h3>History and Origin of Shree Chintaman Ganesh Temple</h3>
+        <p>
+          The temple is believed to be one of the oldest Ganesh temples in India. Historical records suggest that the temple structure dates back several centuries and was later renovated during the reign of the Maratha rulers. The present structure reflects the architectural style of that period.
+        </p>
+        <p>
+          According to legend, the idol of Lord Ganesha in this temple is believed to be self-manifested (Swayambhu), which increases its spiritual importance among devotees. Over time, the temple became a prominent pilgrimage destination in Ujjain.
+        </p>
+  
+        <h3>Spiritual Significance</h3>
+        <p>
+          Lord Ganesha at this temple is worshipped as the remover of worries and obstacles. Devotees visit the temple to seek blessings before starting new ventures, marriages, or important life events.
+        </p>
+        <p>
+          The temple is particularly famous among people who believe that prayers offered here can help resolve problems related to health, family, and financial difficulties.
+        </p>
+  
+        <h3>Temple Architecture</h3>
+        <p>
+          The architecture of Shree Chintaman Ganesh Temple reflects traditional Hindu temple design with strong influences from the Maratha period. The temple is built using stone and features beautifully carved pillars and a spacious courtyard for devotees.
+        </p>
+        <p>
+          The sanctum houses the idol of Lord Ganesha, along with idols of Riddhi and Siddhi, who are considered the divine consorts of Lord Ganesha. The peaceful surroundings and sacred atmosphere enhance the spiritual experience of visitors.
+        </p>
+  
+        <h3>Rituals and Worship</h3>
+        <p>
+          Daily rituals and aartis are performed at the temple by priests following traditional Hindu customs. Devotees offer sweets, flowers, and coconuts to Lord Ganesha while praying for the removal of obstacles and fulfillment of their wishes.
+        </p>
+        <p>
+          Special prayers are also conducted during important occasions and festivals, drawing large numbers of devotees from nearby cities and states.
+        </p>
+  
+        <h3>Festivals Celebrated</h3>
+        <p>
+          The temple celebrates several Hindu festivals, with Ganesh Chaturthi being the most important. During this festival, the temple is decorated with flowers and lights, and special prayers and ceremonies are performed.
+        </p>
+        <p>
+          Other festivals such as Diwali and Sankashti Chaturthi are also observed with devotion, making the temple a vibrant center of religious activities.
+        </p>
+  
+        <h3>Visiting Shree Chintaman Ganesh Temple</h3>
+        <p>
+          The temple is located about 6 kilometers from the city center of Ujjain and is easily accessible by road. Pilgrims often include this temple in their spiritual journey along with other famous temples of Ujjain such as Mahakaleshwar Temple and Kal Bhairav Temple.
+        </p>
+        <p>
+          The calm environment and scenic surroundings near the Shipra River make it a peaceful place for meditation and prayer.
+        </p>
+  
+        <h3>Best Time to Visit</h3>
+        <p>
+          The best time to visit the temple is between October and March when the weather in Ujjain is pleasant. Visiting during Ganesh Chaturthi provides a special opportunity to witness the grand celebrations and spiritual atmosphere.
+        </p>
+  
+                  {/* Nearby Hotels Section */}
+                  <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.google.com/aclk?sa=l&ai=DChsSEwiC4tnJtZ2TAxUXmKYDHZQYHDUYACICCAEQExoCdGI&co=1&ase=2&gclid=CjwKCAjw687NBhB4EiwAQ645dn9h8mZjyU8CL1avplmKG_xbc7mVfhU3Nn8J7fZVvj_wbAlOAEoB6RoCpQgQAvD_BwE&cid=CAAS0wHkaBQ93WBGduEGLYV-hg3rXbcLgwD7OacuaGsk31rrXuZ7WxvRQQFzj962aIDv1S3XB8KQDT1Aw69IxkjKb3KYuD-BB82Knq2Yv2QxSA2I05ldMPYoehLbB9gE6FxjEpowXZh9RPmTqo53B4IxAs-EKAHGQfgch5TybCh3_Lh4gksS7bNdd60WTgtqaLmCSdrgchhYwBczJYI0Eo-HocD-rUWxZtwL5U1EAkdTp8K_4qjFrTIOfrFaQkM6JMOfYNwtoLT8wstTWJXU8NEJf7agpWtS&category=acrcp_v1_48&sig=AOD64_3xqQVWjmfBLQttBGVlSZSabUZ6dg&adurl=&ved=2ahUKEwi24NHJtZ2TAxXnsFYBHU42OHkQhrUFegQICBAI" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Hotel Atlas Palace
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.booking.com/hotel/in/shree-krishna-palace-ujjain.en-gb.html?label=metagha-link-LUIN-hotel-12173495_dev-desktop_los-1_bw-0_dow-Friday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-21415141192_mcid-10_ppa-1_clrid-0_ad-1_gstkid-0_checkin-20260313_ppt-_lp-2356_r-13872165346913821927&utm_source=metagha&utm_medium=localuniversal&utm_term=hotel-12173495&utm_content=dev-desktop_los-1_bw-0_dow-Friday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-21415141192_mcid-10_ppa-1_clrid-0_ad-1_gstkid-0_checkin-20260313_ppt-&utm_campaign=IN&gclid=CjwKCAjw687NBhB4EiwAQ645dn9h8mZjyU8CL1avplmKG_xbc7mVfhU3Nn8J7fZVvj_wbAlOAEoB6RoCpQgQAvD_BwE&aid=2419802&ucfs=1&arphpl=1&checkin=2026-03-13&checkout=2026-03-14&dest_id=12173495&dest_type=hotel&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=5cb77c3f173002c6&srepoch=1773423729&all_sr_blocks=1054637201_377863444_2_0_0&highlighted_blocks=1054637201_377863444_2_0_0&matching_block_id=1054637201_377863444_2_0_0&sr_pri_blocks=1054637201_377863444_2_0_0__200000&from=searchresults" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Hotel Shree Krishna Palace
+              </a>
+            </li>
+          </ul>
+        <h3>Conclusion</h3>
+        <p>
+          Shree Chintaman Ganesh Temple is a sacred place that holds deep spiritual significance for devotees of Lord Ganesha. With its ancient history, divine atmosphere, and cultural importance, the temple continues to attract thousands of pilgrims seeking blessings and peace of mind.
+        </p>
+        <p>
+          A visit to this temple offers not only spiritual fulfillment but also a chance to experience the rich religious heritage of Ujjain.
+        </p>
+      </>
+    )
+  },
+  {
+    id: 20,
+    name: "Pasupati Nath Temple",
+    location: "Satna",
+    imageUrl: asset.Pasupati_Nath_Temple_20,
+    description: (
+      <>
+        <h2>Introduction to Pasupati Nath Temple</h2>
+        <p>
+          Pasupati Nath Temple, located in the city of Satna in Madhya Pradesh, is a revered temple dedicated to Lord Shiva. The temple is widely known for its peaceful spiritual atmosphere and for the unique idol of Lord Shiva that resembles the famous Pashupatinath form. Devotees from Satna and nearby regions regularly visit the temple to seek blessings for prosperity, peace, and protection.
+        </p>
+        <p>
+          The temple has become an important spiritual center for followers of Lord Shiva in the Bundelkhand and Baghelkhand regions. Its calm surroundings and sacred environment make it a popular place for prayer, meditation, and religious gatherings.
+        </p>
+  
+        <h3>History and Origin of Pasupati Nath Temple</h3>
+        <p>
+          The Pasupati Nath Temple in Satna is believed to have been constructed several decades ago and gradually developed into a prominent religious destination. Inspired by the famous Pashupatinath Temple of Nepal, this temple was built to allow devotees in the region to worship Lord Shiva in the sacred Pashupati form.
+        </p>
+        <p>
+          Over time, the temple gained popularity among devotees, especially during major Hindu festivals dedicated to Lord Shiva. The temple administration and local devotees have continuously contributed to its development and maintenance.
+        </p>
+  
+        <h3>Spiritual Significance</h3>
+        <p>
+          Lord Shiva in the form of Pashupati represents the protector of all living beings. The word "Pashupati" means "Lord of all creatures," symbolizing compassion, protection, and divine power. Devotees believe that worshipping Lord Pashupati removes negative energies and brings spiritual strength and peace.
+        </p>
+        <p>
+          Many devotees visit the temple to perform prayers for health, success, and relief from difficulties in life. The temple is especially significant for those seeking blessings during important life events and spiritual journeys.
+        </p>
+  
+        <h3>Temple Architecture</h3>
+        <p>
+          The architecture of Pasupati Nath Temple is simple yet spiritually captivating. The temple structure features traditional Hindu design elements, including a tall shikhara (spire) above the sanctum and a spacious prayer hall for devotees.
+        </p>
+        <p>
+          The main sanctum houses the sacred idol of Lord Shiva, where devotees gather to offer prayers and perform rituals. The temple complex also includes smaller shrines dedicated to other Hindu deities, enhancing the spiritual environment of the temple.
+        </p>
+  
+        <h3>Rituals and Worship</h3>
+        <p>
+          Daily worship at Pasupati Nath Temple includes traditional rituals such as Abhishek, aarti, and chanting of sacred mantras dedicated to Lord Shiva. Devotees offer milk, water, flowers, and bilva leaves to the Shiva Lingam as part of their prayers.
+        </p>
+        <p>
+          The temple priests conduct morning and evening aartis, creating a divine atmosphere filled with devotional chants and spiritual energy.
+        </p>
+  
+        <h3>Festivals Celebrated</h3>
+        <p>
+          Maha Shivaratri is the most important festival celebrated at Pasupati Nath Temple. During this festival, thousands of devotees gather to participate in night-long prayers, special rituals, and devotional singing dedicated to Lord Shiva.
+        </p>
+        <p>
+          Other festivals such as Shravan month celebrations, Nag Panchami, and Kartik festivals are also celebrated with devotion. During these occasions, the temple is beautifully decorated and filled with devotees offering prayers.
+        </p>
+  
+        <h3>Visiting Pasupati Nath Temple</h3>
+        <p>
+          The temple is located in Satna district of Madhya Pradesh and is easily accessible by road. Satna is well connected by railway and road networks to major cities such as Rewa, Prayagraj, and Jabalpur.
+        </p>
+        <p>
+          Visitors often include Pasupati Nath Temple in their spiritual itinerary along with other nearby temples and pilgrimage sites in the region.
+        </p>
+  
+        <h3>Best Time to Visit</h3>
+        <p>
+          The best time to visit Pasupati Nath Temple is from October to March when the weather in Satna is pleasant for travel and temple visits. Visiting during Maha Shivaratri or during the holy month of Shravan offers a particularly vibrant spiritual experience.
+        </p>
+
+        {/* Nearby Hotels Section */}
+        <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+Pankaj/data=!4m10!3m9!1s0x39847f06916c141f:0xd9a983deb7e4ef6c!5m2!4m1!1i2!8m2!3d24.5730412!4d80.8470913!16s%2Fg%2F11bx1bhfyw!19sChIJHxRskQZ_hDkRbO_kt96Dqdk?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Hotel Pankaj
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+Kwality+Inn/data=!4m10!3m9!1s0x39847f0e448ae56d:0xcd63df0005b9d277!5m2!4m1!1i2!8m2!3d24.5668591!4d80.833349!16s%2Fg%2F11ddzfcf4r!19sChIJbeWKRA5_hDkRd9K5BQDfY80?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+              Hotel Kwality Inn</a>
+            </li>
+          </ul>
+  
+        <h3>Conclusion</h3>
+        <p>
+          Pasupati Nath Temple in Satna stands as a symbol of devotion, peace, and spiritual strength for devotees of Lord Shiva. Its serene environment, sacred rituals, and growing religious importance make it an important pilgrimage site in the region.
+        </p>
+        <p>
+          Whether visiting for prayer, spiritual reflection, or cultural exploration, Pasupati Nath Temple offers a meaningful and divine experience for every devotee.
+        </p>
+      </>
+    )
+  },
+  {
+    id: 21,
+    name: "Shri Kamta Nath Mandir",
+    location: "Chitrakoot",
+    imageUrl: asset.Kamta_Nath_21,
+    description: (
+      <>
+        <h2>Introduction to Shri Kamta Nath Mandir</h2>
+        <p>
+          Shri Kamta Nath Mandir is one of the most sacred temples located in the holy town of Chitrakoot, which lies on the border of Madhya Pradesh and Uttar Pradesh. The temple is dedicated to Lord Kamta Nath, a revered form of Lord Rama. Chitrakoot holds immense spiritual importance in Hinduism because it is believed that Lord Rama, Goddess Sita, and Lord Lakshmana spent a significant portion of their exile here during the events of the Ramayana.
+        </p>
+        <p>
+          The temple is situated near the sacred Kamadgiri Hill, which is considered the spiritual center of Chitrakoot. Thousands of devotees visit the temple every year to offer prayers and perform the famous Kamadgiri Parikrama, a sacred circumambulation believed to bring blessings and fulfillment of wishes.
+        </p>
+  
+        <h3>History and Origin of Shri Kamta Nath Mandir</h3>
+        <p>
+          The history of Shri Kamta Nath Mandir is deeply connected with the ancient legends of Chitrakoot mentioned in Hindu scriptures such as the Ramayana and the Puranas. According to tradition, Lord Rama lived in the forests of Chitrakoot during his exile and blessed the region with his divine presence.
+        </p>
+        <p>
+          Over centuries, sages, saints, and devotees established temples and spiritual centers in the region. Among them, Kamta Nath Mandir became one of the most important pilgrimage sites dedicated to Lord Rama.
+        </p>
+  
+        <h3>Spiritual Significance</h3>
+        <p>
+          Lord Kamta Nath is worshipped as the divine power that fulfills the wishes of devotees. The temple is considered especially sacred because it lies near the Kamadgiri Hill, which is believed to represent the divine form of Lord Rama himself.
+        </p>
+        <p>
+          Devotees perform the sacred Kamadgiri Parikrama around the hill, covering a distance of about five kilometers. This ritual is believed to bring spiritual purification, prosperity, and peace to those who perform it with devotion.
+        </p>
+  
+        <h3>Temple Architecture</h3>
+        <p>
+          The architecture of Shri Kamta Nath Mandir reflects traditional North Indian temple design. The temple features carved pillars, a sanctum dedicated to Lord Kamta Nath, and surrounding shrines dedicated to various deities.
+        </p>
+        <p>
+          The temple complex is simple yet spiritually vibrant, offering a peaceful environment where devotees can pray, meditate, and experience divine energy.
+        </p>
+  
+        <h3>Rituals and Worship</h3>
+        <p>
+          Daily rituals at the temple include morning and evening aartis, chanting of devotional hymns, and offerings of flowers, sweets, and incense to Lord Kamta Nath. Devotees also perform the Kamadgiri Parikrama as part of their spiritual practice.
+        </p>
+        <p>
+          Priests conduct special prayers during auspicious days and religious ceremonies, attracting large numbers of pilgrims to the temple.
+        </p>
+  
+        <h3>Festivals Celebrated</h3>
+        <p>
+          Several Hindu festivals are celebrated with great devotion at Shri Kamta Nath Mandir. Among them, Ram Navami, Diwali, and Makar Sankranti are the most important.
+        </p>
+        <p>
+          During these festivals, the temple is decorated with lights and flowers, and thousands of devotees gather to participate in special prayers and religious ceremonies.
+        </p>
+  
+        <h3>Visiting Shri Kamta Nath Mandir</h3>
+        <p>
+          The temple is located in the sacred town of Chitrakoot and is easily accessible by road from nearby cities such as Satna, Prayagraj, and Banda. Pilgrims often combine their visit to Kamta Nath Mandir with visits to other important spiritual sites in Chitrakoot, including Ramghat, Bharat Milap Temple, and Gupt Godavari caves.
+        </p>
+  
+        <h3>Best Time to Visit</h3>
+        <p>
+          The best time to visit Shri Kamta Nath Mandir is between October and March when the weather in Chitrakoot is pleasant for travel and pilgrimage. Visiting during major festivals such as Ram Navami offers a unique spiritual experience.
+        </p>
+
+        {/* Nearby Hotels Section */}
+        <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.booking.com/hotel/in/sri-vaidehi-bhawan.en-gb.html?label=chitrakoot-VfxL0Ta9120Pq1HdhE6RAgS778934119870%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-17843899349%3Alp1007792%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YX-SVbABBf1_4_myCsGQXgE&sid=15a98d9bdcdfecebbf76530e93999231&gclid=CjwKCAjw687NBhB4EiwAQ645drk9QzRMNvCJ1BGv_vUtWau3DbcoJldl530ICw858JlRzbbezIfkjhoCrU8QAvD_BwE&aid=306395&ucfs=1&arphpl=1&checkin=2026-03-13&checkout=2026-03-14&dest_id=900063451&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=9a3a7df9871d0259&srepoch=1773424586&all_sr_blocks=1589615801_430063396_2_0_0&highlighted_blocks=1589615801_430063396_2_0_0&matching_block_id=1589615801_430063396_2_0_0&sr_pri_blocks=1589615801_430063396_2_0_0__170000&from=searchresults" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                SRI Vaidehi Bhawan
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.booking.com/hotel/in/ma-parvati-residency.en-gb.html?label=chitrakoot-VfxL0Ta9120Pq1HdhE6RAgS778934119870%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-17843899349%3Alp1007792%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YX-SVbABBf1_4_myCsGQXgE&sid=15a98d9bdcdfecebbf76530e93999231&gclid=CjwKCAjw687NBhB4EiwAQ645drk9QzRMNvCJ1BGv_vUtWau3DbcoJldl530ICw858JlRzbbezIfkjhoCrU8QAvD_BwE&aid=306395&ucfs=1&arphpl=1&checkin=2026-03-13&checkout=2026-03-14&dest_id=900063451&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=9a3a7df9871d0259&srepoch=1773424519&all_sr_blocks=1368191601_409059826_2_0_0&highlighted_blocks=1368191601_409059826_2_0_0&matching_block_id=1368191601_409059826_2_0_0&sr_pri_blocks=1368191601_409059826_2_0_0__55000&from=searchresults" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                
+                Hotel Ma Parvati Residency
+
+              </a>
+            </li>
+          </ul>
+  
+        <h3>Conclusion</h3>
+        <p>
+          Shri Kamta Nath Mandir stands as one of the most important spiritual landmarks in Chitrakoot. With its deep connection to the Ramayana, sacred surroundings, and powerful devotional atmosphere, the temple attracts countless devotees seeking blessings, peace, and spiritual fulfillment.
+        </p>
+      </>
+    )
+  },
+  {
+    id: 22,
+    name: "Chaturbhuj Temple",
+    location: "Khajuraho",
+    imageUrl: asset.Chaturbhuj_Temple_22,
+    description: (
+      <>
+        <h2>Introduction to Chaturbhuj Temple</h2>
+        <p>
+          Chaturbhuj Temple is one of the remarkable temples located in the historic town of Khajuraho in Madhya Pradesh. The temple is dedicated to Lord Vishnu, who is worshipped in his four-armed form, which is reflected in the name “Chaturbhuj.” Unlike many other temples in the Khajuraho complex known for their intricate sculptures, this temple is unique for its relatively simple design and serene spiritual atmosphere.
+        </p>
+        <p>
+          Situated in the southern group of the Khajuraho temples, Chaturbhuj Temple is an important historical and architectural landmark. It attracts both pilgrims and tourists who come to admire the temple’s ancient heritage and the magnificent idol of Lord Vishnu housed within the sanctum.
+        </p>
+  
+        <h3>History and Origin of Chaturbhuj Temple</h3>
+        <p>
+          Chaturbhuj Temple was built during the reign of the Chandela dynasty around the 11th century. The Chandela rulers were great patrons of art, culture, and religion, and they constructed many temples in the Khajuraho region between the 9th and 12th centuries.
+        </p>
+        <p>
+          The temple reflects the architectural brilliance of the Chandela period and represents their devotion to Hindu deities. Although many temples in Khajuraho are dedicated to Lord Shiva, the Chaturbhuj Temple stands out because it is devoted to Lord Vishnu.
+        </p>
+        <p>
+          Over the centuries, the temple has remained an important monument of Indian heritage and is now part of the Khajuraho temple complex, which is recognized as a UNESCO World Heritage Site.
+        </p>
+  
+        <h3>Spiritual Significance</h3>
+        <p>
+          The temple is dedicated to Lord Vishnu, one of the principal deities of Hinduism who is known as the preserver of the universe. The name “Chaturbhuj” means “four-armed,” symbolizing the divine form of Lord Vishnu holding sacred symbols such as the conch, discus, mace, and lotus.
+        </p>
+        <p>
+          Devotees believe that worshipping Lord Vishnu brings peace, protection, and prosperity. The temple is visited by pilgrims who seek blessings for harmony and spiritual well-being.
+        </p>
+  
+        <h3>Temple Architecture</h3>
+        <p>
+          Chaturbhuj Temple is built in the traditional Nagara style of North Indian temple architecture. The temple stands on a raised platform and features a tall shikhara (spire) that rises gracefully above the sanctum.
+        </p>
+        <p>
+          The most striking feature of the temple is the large idol of Lord Vishnu inside the sanctum. The statue stands approximately nine feet tall and is carved from stone with impressive detail and craftsmanship.
+        </p>
+        <p>
+          Unlike many other Khajuraho temples, Chaturbhuj Temple has very few erotic sculptures, giving it a more restrained and solemn architectural style. The temple’s simplicity highlights the grandeur of the central deity.
+        </p>
+  
+        <h3>Rituals and Worship</h3>
+        <p>
+          Although the temple is primarily maintained as a historical monument today, visitors and devotees still offer prayers and respect to Lord Vishnu. The peaceful atmosphere of the temple makes it a suitable place for quiet reflection and spiritual appreciation.
+        </p>
+  
+        <h3>Festivals Celebrated</h3>
+        <p>
+          Important Hindu festivals such as Janmashtami, Diwali, and Vishnu-related celebrations are observed by devotees visiting the temple. During these occasions, pilgrims come to seek blessings and admire the spiritual beauty of the temple.
+        </p>
+  
+        <h3>Visiting Chaturbhuj Temple</h3>
+        <p>
+          The temple is located in the southern group of temples in Khajuraho, Madhya Pradesh. Khajuraho is well connected by road, rail, and air, making it accessible for tourists and pilgrims from across the country.
+        </p>
+        <p>
+          Visitors often explore the Chaturbhuj Temple along with other famous temples in the Khajuraho complex, including the Kandariya Mahadeva Temple and Lakshmana Temple.
+        </p>
+  
+        <h3>Best Time to Visit</h3>
+        <p>
+          The best time to visit Chaturbhuj Temple is between October and March when the weather in Khajuraho is pleasant for sightseeing and temple exploration. This period also coincides with cultural events and festivals held in the region.
+        </p>
+
+                {/* Nearby Hotels Section */}
+                <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/HOTEL+KHAJURAHO+INN/data=!4m10!3m9!1s0x3982ef6409f64dd1:0x986b419133d0101f!5m2!4m1!1i2!8m2!3d24.839389!4d79.9209046!16s%2Fg%2F11bwqbt_n_!19sChIJ0U32CWTvgjkRHxDQM5FBa5g?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Hotel Khajuraho Inn
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+isabel+Palace,+Khajuraho/data=!4m10!3m9!1s0x3982e5f8128a4283:0x1037ddc745f74f12!5m2!4m1!1i2!8m2!3d24.8375873!4d79.9182815!16s%2Fg%2F12hq4lcwt!19sChIJg0KKEvjlgjkREk_3RcfdNxA?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+              Hotel isabel Palace, Khajuraho
+              </a>
+            </li>
+          </ul>
+  
+        <h3>Conclusion</h3>
+        <p>
+          Chaturbhuj Temple in Khajuraho is an important example of the architectural and spiritual heritage of medieval India. With its magnificent idol of Lord Vishnu, elegant design, and historical significance, the temple continues to attract visitors interested in religion, culture, and history.
+        </p>
+        <p>
+          A visit to Chaturbhuj Temple offers a glimpse into the artistic achievements of the Chandela dynasty and the enduring spiritual traditions of India.
+        </p>
+      </>
+    )
+  },
+  {
+    id: 23,
+    name: "Chaturbhuj Temple",
+    location: "Orchha",
+    imageUrl: asset.Chaturbhuj_Temple_23,
+    description: (
+      <>
+        <h2>Introduction to Chaturbhuj Temple, Orchha</h2>
+        <p>
+          Chaturbhuj Temple is one of the grandest and most impressive temples in the historic town of Orchha, Madhya Pradesh. Dedicated to Lord Vishnu, the temple was constructed by the Bundela rulers and is known for its unique architectural style, which blends both temple and palace elements. The temple is located close to the famous Ram Raja Temple, another significant spiritual landmark in Orchha.
+        </p>
+        <p>
+          The temple is an important pilgrimage site and attracts both devotees and tourists who are drawn by its majestic structure, rich history, and spiritual ambiance.
+        </p>
+  
+        <h3>History and Origin of Chaturbhuj Temple</h3>
+        <p>
+          The temple was commissioned in the 16th century by Queen Ganesh Kunwari of Orchha. It was originally intended to house the idol of Lord Rama, but the idol remained in the nearby Ram Raja Temple. Instead, Chaturbhuj Temple became dedicated to Lord Vishnu, worshipped as the preserver of the universe.
+        </p>
+        <p>
+          Over the centuries, the temple has maintained its significance as a place of devotion and spiritual reverence. It reflects the architectural vision and religious devotion of the Bundela dynasty.
+        </p>
+  
+        <h3>Spiritual Significance</h3>
+        <p>
+          Devotees worship Lord Vishnu in his Chaturbhuj (four-armed) form, believing that prayers here bring protection, prosperity, and spiritual strength. The temple is considered highly auspicious for performing devotional rituals and seeking divine blessings.
+        </p>
+  
+        <h3>Temple Architecture</h3>
+        <p>
+          Chaturbhuj Temple is notable for its massive and towering structure, which combines temple and fort-like palace architecture. It features high ceilings, wide halls, and tall spires. The sanctum houses the idol of Lord Vishnu, while the exterior displays elegant stonework with minimal sculptural embellishments compared to other temples in Madhya Pradesh.
+        </p>
+        <p>
+          The temple is considered one of the tallest temple structures in the region, allowing visitors to enjoy panoramic views of Orchha from the upper levels.
+        </p>
+  
+        <h3>Rituals and Worship</h3>
+        <p>
+          Daily worship at Chaturbhuj Temple includes aartis, chanting of hymns, and offerings of flowers, fruits, and sweets. Devotees also participate in special prayers during major Hindu festivals.
+        </p>
+  
+        <h3>Festivals Celebrated</h3>
+        <p>
+          Ram Navami, Diwali, and Janmashtami are celebrated with devotion. During these festivals, the temple sees a large influx of pilgrims, and special ceremonies are conducted to honor the deities.
+        </p>
+  
+        <h3>Visiting Chaturbhuj Temple</h3>
+        <p>
+          The temple is situated in Orchha, which is accessible by road and rail from nearby cities like Jhansi and Tikamgarh. Visitors often include Chaturbhuj Temple in a tour of Orchha’s historic sites, including the Ram Raja Temple, Jahangir Mahal, and Laxminarayan Temple.
+        </p>
+  
+        <h3>Best Time to Visit</h3>
+        <p>
+          October to March is the best time to visit Orchha due to the pleasant weather, making sightseeing and temple visits comfortable and enjoyable.
+        </p>
+
+        {/* Nearby Hotels Section */}
+        <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Farm+Green+View+Resort,+Orchha/data=!4m10!3m9!1s0x39777918e0eab529:0x85f569a5037ed18c!5m2!4m1!1i2!8m2!3d25.3399594!4d78.6040311!16s%2Fg%2F11fy_pt9j9!19sChIJKbXq4Bh5dzkRjNF-A6Vp9YU?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Farm Green View Resort
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+Shri+Mahant/data=!4m10!3m9!1s0x3977788d5d65c87b:0x1d267ea2172ddb26!5m2!4m1!1i2!8m2!3d25.3519024!4d78.6356718!16s%2Fg%2F11bw4z712_!19sChIJe8hlXY14dzkRJtstF6J-Jh0?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+              Hotel Shri Mahant
+              </a>
+            </li>
+          </ul>
+  
+        <h3>Conclusion</h3>
+        <p>
+          Chaturbhuj Temple in Orchha is an architectural marvel and a significant spiritual site. Its grand design, historical importance, and divine atmosphere make it a must-visit destination for pilgrims, history enthusiasts, and travelers interested in the cultural heritage of Madhya Pradesh.
+        </p>
+      </>
+    )
+  },
+  {
+    id: 24,
+    name: "Siddheshwar Hanuman Ji Temple",
+    location: "Simariya",
+    imageUrl: asset.siddhesh_hanuman_24,
+    description: (
+      <>
+        <h2>Introduction to Siddheshwar Hanuman Ji Temple</h2>
+        <p>
+          Siddheshwar Hanuman Ji Temple, located in Simariya, Madhya Pradesh, is a revered temple dedicated to Lord Hanuman, the symbol of strength, devotion, and protection. The temple attracts devotees from nearby villages and towns who come to seek blessings for courage, spiritual strength, and the removal of obstacles in life.
+        </p>
+        <p>
+          The serene surroundings and spiritual atmosphere of the temple make it a peaceful place for meditation and prayer, where devotees can connect deeply with the divine energy of Lord Hanuman.
+        </p>
+  
+        <h3>History and Origin</h3>
+        <p>
+          The exact origins of Siddheshwar Hanuman Ji Temple are not well-documented, but local tradition holds that the temple has existed for several centuries as a center of devotion. Over time, it became widely recognized as a sacred site due to numerous accounts of divine blessings and miracles attributed to Lord Hanuman.
+        </p>
+  
+        <h3>Spiritual Significance</h3>
+        <p>
+          Lord Hanuman is worshipped here as Siddheshwar, a powerful guardian and protector of devotees. The temple is believed to remove obstacles, grant courage, and provide spiritual guidance. Devotees often visit during times of personal challenges, seeking the divine support of Hanuman Ji.
+        </p>
+  
+        <h3>Temple Architecture</h3>
+        <p>
+          The temple features a simple yet spiritually uplifting design. The sanctum houses a striking idol of Lord Hanuman, where devotees gather to offer prayers, perform rituals, and chant devotional hymns. The temple courtyard and surroundings are designed to provide a calm and meditative environment.
+        </p>
+  
+        <h3>Rituals and Worship</h3>
+        <p>
+          Daily rituals at Siddheshwar Hanuman Ji Temple include morning and evening aartis, chanting of the Hanuman Chalisa, and offerings of sweets, flowers, and vermilion. Devotees also conduct special prayers on Tuesdays and Saturdays, days considered particularly auspicious for Hanuman worship.
+        </p>
+  
+        <h3>Festivals Celebrated</h3>
+        <p>
+          The most significant festival celebrated at the temple is Hanuman Jayanti, commemorating the birth of Lord Hanuman. On this occasion, large numbers of devotees gather for special prayers, devotional songs, and rituals. Other Hindu festivals such as Diwali and Ram Navami are also observed with devotion.
+        </p>
+  
+        <h3>Visiting Siddheshwar Hanuman Ji Temple</h3>
+        <p>
+          The temple is situated in Simariya and is accessible by road from nearby towns and districts. Pilgrims often combine their visit with other local temples or spiritual sites in the region.
+        </p>
+  
+        <h3>Best Time to Visit</h3>
+        <p>
+          The temple can be visited throughout the year, but festival days, especially Hanuman Jayanti, are considered highly auspicious for experiencing the temple’s spiritual energy.
+        </p>
+  
+        {/* Nearby Hotels Section */}
+        <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/HOTEL+GRAND+INN/data=!4m10!3m9!1s0x39838b4055f26011:0xfa1480e2a7c3b1c3!5m2!4m1!1i2!8m2!3d24.2629065!4d80.7565293!16s%2Fg%2F11twh3srpf!19sChIJEWDyVUCLgzkRw7HDp-KAFPo?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                HOTEL GRAND INN
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+kalpana+inn/data=!4m10!3m9!1s0x398253601b939e7b:0xcbc6376709dda003!5m2!4m1!1i2!8m2!3d24.4242505!4d80.0343151!16s%2Fg%2F11gk7p3bsb!19sChIJe56TG2BTgjkRA6DdCWc3xss?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+              Hotel kalpana inn
+              </a>
+            </li>
+          </ul>
+
+        <h3>Conclusion</h3>
+        <p>
+          Siddheshwar Hanuman Ji Temple in Simariya is a revered spiritual center where devotees come to seek divine blessings, courage, and protection. Its peaceful environment and sacred energy make it an important destination for devotees of Lord Hanuman in Madhya Pradesh.
+        </p>
+      </>
+    )
+  },
+  {
+    id: 25,
+    name: "Shri Jugal Kishore Ji Temple",
+    location: "Panna",
+    imageUrl: asset.jugal_kishore_25,
+    description: (
+      <>
+        <h2>Introduction to Shri Jugal Kishore Ji Temple</h2>
+        <p>
+          Shri Jugal Kishore Ji Temple, located in Panna, Madhya Pradesh, is a revered temple dedicated to Lord Krishna in his divine form with Radha, collectively known as Jugal Kishore. The name “Jugal” signifies the paired or twin form, representing the eternal love and divine union of Krishna and Radha. This temple is a major spiritual center for devotees seeking blessings of devotion, prosperity, and inner peace.
+        </p>
+        <p>
+          Surrounded by lush greenery and situated close to the bustling town of Panna, the temple offers a serene atmosphere ideal for meditation, prayer, and reflection. Pilgrims from Madhya Pradesh and neighboring states frequently visit the temple, especially during major festivals.
+        </p>
+  
+        <h3>History and Origin</h3>
+        <p>
+          The origins of Shri Jugal Kishore Ji Temple are believed to date back several centuries, although exact records are scarce. Local traditions suggest that the temple was established by a group of devoted followers who experienced a divine vision of Lord Krishna and Radha at this location. Over the years, the temple has been maintained and renovated by the local community, reflecting centuries of continuous devotion.
+        </p>
+        <p>
+          Some legends say that Panna, with its proximity to the Vindhya ranges and natural rivers, was considered an area blessed by Lord Krishna, which prompted the construction of the temple. Its history is intertwined with the spiritual evolution of the region, serving as a center of bhakti (devotion) for generations.
+        </p>
+  
+        <h3>Spiritual Significance</h3>
+        <p>
+          Shri Jugal Kishore Ji Temple is believed to be a powerful center for divine blessings. Devotees come to seek relief from life challenges, prosperity in household affairs, spiritual growth, and guidance in personal matters. The combined form of Krishna and Radha symbolizes harmony, divine love, and the devotion between the soul (jivatma) and the divine (Paramatma).
+        </p>
+        <p>
+          Devotees often believe that worshipping at this temple amplifies spiritual energy, promotes inner peace, and helps in establishing a stronger connection with the divine.
+        </p>
+  
+        <h3>Temple Architecture</h3>
+        <p>
+          The temple showcases classic North Indian architectural elements. The sanctum sanctorum houses the beautifully carved idol of Jugal Kishore Ji adorned with colorful garments and jewelry. The idol is typically accompanied by intricate depictions of Radha and Krishna in loving poses.
+        </p>
+        <p>
+          The temple complex includes multiple smaller shrines, a spacious courtyard for congregational prayers, and decorative pillars with motifs inspired by Vaishnavism. The temple’s walls feature detailed carvings that depict scenes from Krishna’s life, including his childhood leelas (divine pastimes) and Raas Leela with Radha.
+        </p>
+        <p>
+          The temple also contains a sacred pond nearby, which devotees use for ritual purification before entering the main sanctum.
+        </p>
+  
+        <h3>Rituals and Worship</h3>
+        <p>
+          Daily worship at Shri Jugal Kishore Ji Temple includes:
+        </p>
+        <ul>
+          <li>Morning and evening aartis with devotional songs and bells.</li>
+          <li>Bhajan sessions praising Lord Krishna and Radha.</li>
+          <li>Offering flowers, sweets, milk, and incense to the deity.</li>
+          <li>Special chanting of the Vishnu Sahasranama and other sacred hymns.</li>
+        </ul>
+        <p>
+          Devotees also observe vrata (fasts) on specific days like Ekadashi and participate in congregational prayers to deepen their devotion. Many visitors perform kirtans and group prayers during festive periods.
+        </p>
+  
+        <h3>Festivals Celebrated</h3>
+        <p>
+          Shri Jugal Kishore Ji Temple is especially vibrant during festivals:
+        </p>
+        <ul>
+          <li><strong>Janmashtami:</strong> Celebrating the birth of Lord Krishna with night vigils, devotional songs, and enactments of Krishna’s childhood leelas.</li>
+          <li><strong>Holi:</strong> The festival of colors is celebrated with enthusiasm, devotion, and cultural performances.</li>
+          <li><strong>Radhashtami:</strong> Honoring the birth of Goddess Radha with special prayers and rituals.</li>
+          <li><strong>Diwali:</strong> The temple is decorated with lamps and flowers, with devotees gathering for evening aartis.</li>
+        </ul>
+  
+        <h3>Visiting Shri Jugal Kishore Ji Temple</h3>
+        <p>
+          The temple is located in the town of Panna, which is well-connected by road and rail. Panna also hosts the famous Panna National Park, making the temple a convenient spiritual stop for travelers exploring the region.
+        </p>
+        <p>
+          Visitors are advised to perform rituals with devotion, maintain the sanctity of the premises, and experience the spiritual ambiance of the temple and its surroundings.
+        </p>
+  
+        <h3>Best Time to Visit</h3>
+        <p>
+          The ideal period to visit the temple is from October to March, when the weather is cool and comfortable. Visiting during Janmashtami or Holi provides an immersive experience of cultural and devotional celebrations.
+        </p>
+
+        {/* Nearby Hotels Section */}
+        <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+W+Emerald/data=!4m10!3m9!1s0x39830387888dd0cd:0x416ea0c24bebac3!5m2!4m1!1i2!8m2!3d24.7145649!4d80.1873425!16s%2Fg%2F11b7c77y_0!19sChIJzdCNiIcDgzkRw7q-JAzqFgQ?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Hotel W Emerald
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+Aashirwad/data=!4m10!3m9!1s0x3983050055ebff39:0x1f530a41246deae6!5m2!4m1!1i2!8m2!3d24.7292664!4d80.2056973!16s%2Fg%2F11x73bv9m4!19sChIJOf_rVQAFgzkR5uptJEEKUx8?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+              Hotel Aashirwad
+              </a>
+            </li>
+          </ul>
+  
+        <h3>Conclusion</h3>
+        <p>
+          Shri Jugal Kishore Ji Temple in Panna is not only a spiritual center but also a cultural landmark. Its historical roots, divine association with Lord Krishna and Radha, beautiful architecture, and serene environment make it a must-visit for devotees, history enthusiasts, and travelers seeking spiritual enrichment. The temple continues to inspire devotion, love, and harmony among all who visit.
+        </p>
+      </>
+    )
+  },
+  {
+    id: 26,
+    name: "Jatashankar Mandir",
+    location: "Damoh",
+    imageUrl: asset.jatasankar_26,
+    description: (
+      <>
+        <h2>Introduction to Jatashankar Mandir</h2>
+        <p>
+          Jatashankar Mandir, located in Damoh, Madhya Pradesh, is a revered temple dedicated to Lord Shiva. The temple is named after the sacred Shivalinga housed inside a naturally formed cave, believed to have been shaped by Lord Shiva himself. It is a significant spiritual center attracting devotees seeking blessings for health, prosperity, and spiritual well-being.
+        </p>
+        <p>
+          The temple is surrounded by scenic hills and lush greenery, offering a peaceful and meditative environment for pilgrims. Its unique cave formation and natural surroundings make it both a spiritual and natural marvel.
+        </p>
+  
+        <h3>History and Origin</h3>
+        <p>
+          Jatashankar Mandir is believed to have been established centuries ago, although the exact date of origin is not documented. Local legends claim that the cave where the Shivalinga resides is naturally formed and considered extremely sacred. The name “Jatashankar” refers to Lord Shiva’s matted hair (Jata) and signifies the divine energy concentrated at this site.
+        </p>
+        <p>
+          Over the years, the temple has been maintained by local devotees and has become a center of pilgrimage for people from Damoh and neighboring regions.
+        </p>
+  
+        <h3>Spiritual Significance</h3>
+        <p>
+          Devotees worship Lord Shiva at Jatashankar Mandir to seek protection from evil, relief from ailments, and blessings for spiritual growth. The natural cave and the Shivalinga are believed to possess powerful spiritual energy, enhancing the devotees’ connection with Lord Shiva.
+        </p>
+        <p>
+          Pilgrims often perform special prayers, meditation, and rituals inside the cave, making it a unique experience compared to conventional temples.
+        </p>
+  
+        <h3>Temple Architecture</h3>
+        <p>
+          Jatashankar Mandir is a cave temple with minimal structural modifications, allowing the natural rock formations to define its architecture. The sanctum houses the Shivalinga, and small pathways lead devotees into the cave. Surrounding the cave are smaller shrines dedicated to other deities, including Lord Ganesha and Goddess Parvati.
+        </p>
+        <p>
+          The temple’s rustic and natural design offers a stark contrast to more ornate Hindu temples, highlighting the raw spiritual power of the place.
+        </p>
+  
+        <h3>Rituals and Worship</h3>
+        <p>
+          Daily rituals include the offering of water, milk, flowers, and bel leaves to the Shivalinga. Devotees also light incense and perform aartis in the morning and evening. Special prayers and chanting of Shiva mantras are conducted by priests, particularly during festivals.
+        </p>
+  
+        <h3>Festivals Celebrated</h3>
+        <p>
+          Mahashivaratri is the most important festival at Jatashankar Mandir, attracting large numbers of devotees. Other festivals such as Shravan Mondays, Pradosh Vrat, and Kartik Purnima are also observed with devotion. During these occasions, the temple is decorated, and devotional music and prayers fill the surroundings.
+        </p>
+  
+        <h3>Visiting Jatashankar Mandir</h3>
+        <p>
+          The temple is located in Damoh, accessible by road from nearby towns and cities. Visitors often enjoy the surrounding natural scenery and may combine their visit with other nearby spiritual or scenic sites.
+        </p>
+  
+        <h3>Best Time to Visit</h3>
+        <p>
+          The ideal time to visit Jatashankar Mandir is between October and March when the weather is pleasant. Visiting during Mahashivaratri provides a spiritually immersive experience.
+        </p>
+
+        {/* Nearby Hotels Section */}
+        <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+W+Emerald/data=!4m10!3m9!1s0x39830387888dd0cd:0x416ea0c24bebac3!5m2!4m1!1i2!8m2!3d24.7145649!4d80.1873425!16s%2Fg%2F11b7c77y_0!19sChIJzdCNiIcDgzkRw7q-JAzqFgQ?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Hotel W Emerald
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+Aashirwad/data=!4m10!3m9!1s0x3983050055ebff39:0x1f530a41246deae6!5m2!4m1!1i2!8m2!3d24.7292664!4d80.2056973!16s%2Fg%2F11x73bv9m4!19sChIJOf_rVQAFgzkR5uptJEEKUx8?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+              Hotel Aashirwad
+              </a>
+            </li>
+          </ul>
+  
+        <h3>Conclusion</h3>
+        <p>
+          Jatashankar Mandir in Damoh is a unique spiritual destination combining the natural beauty of its cave setting with the sacred energy of Lord Shiva. Devotees and visitors alike are drawn to its serene environment, historical significance, and powerful spiritual atmosphere.
+        </p>
+      </>
+    )
+  },
+  {
+    id: 27,
+    name: "Narmada Ghat",
+    location: "Dindori",
+    imageUrl: asset.Narmada_27,
+    description: (
+      <>
+        <h2>Introduction to Narmada Ghat, Dindori</h2>
+        <p>
+          Narmada Ghat, located in Dindori, Madhya Pradesh, is a sacred riverside spot along the holy Narmada River. The ghat is an important place for pilgrims and locals to perform religious rituals, take holy dips, and participate in spiritual ceremonies. The tranquil waters and serene surroundings make it a popular destination for meditation, reflection, and devotion.
+        </p>
+        <p>
+          The Narmada River is considered one of the seven sacred rivers of India, and ghats along its banks hold immense religious and cultural significance. Narmada Ghat in Dindori is a vital center for local festivals, rituals, and daily worship practices.
+        </p>
+  
+        <h3>Spiritual Significance</h3>
+        <p>
+          Bathing in the Narmada River is believed to purify the soul, remove sins, and bring spiritual merit. The ghat is also a place where devotees perform rites for ancestors, including shraddha ceremonies and offering prayers to departed souls. Many pilgrims visit the ghat as part of the Narmada Parikrama, a sacred circumambulation of the river that spans hundreds of kilometers.
+        </p>
+  
+        <h3>Activities at Narmada Ghat</h3>
+        <ul>
+          <li>Holy dips in the Narmada River for purification and spiritual cleansing.</li>
+          <li>Offering prayers, flowers, and water to the river.</li>
+          <li>Participating in local religious festivals and fairs held on the riverbank.</li>
+          <li>Meditation and yoga in the serene riverside environment.</li>
+        </ul>
+  
+        <h3>Festivals and Events</h3>
+        <p>
+          The ghat sees heightened activity during festivals like Maha Shivaratri, Kartik Purnima, and Narmada Jayanti. During these occasions, devotees gather in large numbers to perform rituals, offer prayers, and celebrate with devotional music and cultural programs.
+        </p>
+  
+        <h3>Visiting Narmada Ghat</h3>
+        <p>
+          Narmada Ghat is located in Dindori and is accessible by road from nearby towns and cities. The ghat is often visited in combination with local temples and scenic spots along the Narmada River, making it a key spiritual and cultural destination in the region.
+        </p>
+  
+        <h3>Best Time to Visit</h3>
+        <p>
+          The ideal time to visit Narmada Ghat is from October to March when the weather is pleasant. Early mornings and evenings are the best times for rituals, meditation, and experiencing the spiritual atmosphere.
+        </p>
+
+        {/* Nearby Hotels Section */}
+        <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+Vijay+Grand/data=!4m10!3m9!1s0x398723551a20d505:0x62e7de71d1b69aef!5m2!4m1!1i2!8m2!3d22.9420047!4d81.0777903!16s%2Fg%2F11bx569y8t!19sChIJBdUgGlUjhzkR75q20XHe52I?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Hotel Vijay Grand
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+Pinaki+Inn/data=!4m10!3m9!1s0x3987eafd853371f3:0x8243c929c4da055f!5m2!4m1!1i2!8m2!3d22.74881!4d81.9021864!16s%2Fg%2F11f540bl_v!19sChIJ83Ezhf3qhzkRXwXaxCnJQ4I?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+              Hotel Pinaki Inn
+              </a>
+            </li>
+          </ul>
+  
+        <h3>Conclusion</h3>
+        <p>
+          Narmada Ghat in Dindori is a serene and spiritually significant site along one of India’s holiest rivers. It provides devotees a sacred space for prayer, ritual, and reflection, while also offering a peaceful retreat surrounded by nature.
+        </p>
+      </>
+    )
+  },
+  {
+    id: 28,
+    name: "Dharmrajeshwar Temple",
+    location: "Mandsaur",
+    imageUrl: asset.Dharmarajeshwar_28,
+    description: (
+      <>
+        <h2>Introduction to Dharmrajeshwar Temple</h2>
+        <p>
+          Dharmrajeshwar Temple, located in Mandsaur, Madhya Pradesh, is an ancient temple dedicated to Lord Shiva. Renowned for its historical and spiritual significance, the temple attracts devotees and history enthusiasts alike. The temple’s serene setting and architectural beauty make it a prominent pilgrimage and cultural site in the region.
+        </p>
+        <p>
+          Mandsaur, historically known as Dashapura, has been a center of art, culture, and religious activity for centuries, and Dharmrajeshwar Temple is a significant representation of this heritage.
+        </p>
+  
+        <h3>History and Origin</h3>
+        <p>
+          Dharmrajeshwar Temple dates back several centuries, with origins believed to be during the medieval period. The temple has been revered as a sacred site for devotees of Lord Shiva and has been maintained and renovated over the years by local communities.
+        </p>
+        <p>
+          Historical records indicate that Mandsaur has been a hub for Shaivism, and the construction of Dharmrajeshwar Temple played an important role in promoting religious and cultural activities in the region.
+        </p>
+  
+        <h3>Spiritual Significance</h3>
+        <p>
+          Devotees visit Dharmrajeshwar Temple to seek blessings from Lord Shiva for prosperity, protection, spiritual growth, and removal of obstacles. The temple is considered especially sacred during auspicious occasions such as Maha Shivaratri and Shravan month.
+        </p>
+        <p>
+          The Shiva Lingam in the sanctum is believed to be powerful and is a focus of devotion and meditation for visitors.
+        </p>
+  
+        <h3>Temple Architecture</h3>
+        <p>
+          The temple exhibits traditional North Indian Nagara-style architecture, with intricately carved pillars, ornate spires, and a sanctum housing the main Shiva Lingam. The temple complex also includes smaller shrines dedicated to other deities like Lord Ganesha and Goddess Parvati.
+        </p>
+        <p>
+          The craftsmanship of the temple reflects a blend of religious devotion and artistic excellence, making it a notable example of medieval temple architecture in Madhya Pradesh.
+        </p>
+  
+        <h3>Rituals and Worship</h3>
+        <p>
+          Daily rituals at Dharmrajeshwar Temple include morning and evening aartis, offering flowers, milk, and incense to the deity, and chanting of Shiva mantras. Devotees also participate in special prayers and ceremonies on auspicious days and festivals.
+        </p>
+  
+        <h3>Festivals Celebrated</h3>
+        <p>
+          The most significant festival celebrated at the temple is Maha Shivaratri, which draws large crowds of devotees. Other festivals include Shravan Mondays, Kartik Purnima, and local religious fairs where devotees gather to worship and participate in cultural activities.
+        </p>
+  
+        <h3>Visiting Dharmrajeshwar Temple</h3>
+        <p>
+          The temple is located in Mandsaur and is accessible by road from nearby cities. Pilgrims often combine their visit to Dharmrajeshwar Temple with other local attractions, including historical sites and gardens in Mandsaur.
+        </p>
+  
+        <h3>Best Time to Visit</h3>
+        <p>
+          The best time to visit Dharmrajeshwar Temple is from October to March when the weather is cool and pleasant. Visiting during Maha Shivaratri provides a spiritually immersive experience.
+        </p>
+  
+                       {/* Nearby Hotels Section */}
+                       <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.google.com/travel/search?q=hotels%20in%20mandsaur&g2lb=4965990%2C72471280%2C72560029%2C72573224%2C72647020%2C72686036%2C72803964%2C72882230%2C72958624%2C73059275%2C73064764%2C73249147&hl=en-IN&gl=in&cs=1&ssta=1&ts=CAESCgoCCAMKAggDEAAaUQozEjEyJTB4Mzk2NDJlYTlkYjE1ZTA5ZjoweDg5YTNlNWVhNDM5OTY5NWI6CE1hbmRzYXVyEhoSFAoHCOoPEAMYDxIHCOoPEAMYEBgBMgIQACoHCgU6A0lOUg&qs=CAEyJ0Noa0k1YmVFdGUyM19hQktHZzB2Wnk4eE1YSjJOV3ByZW1ZeUVBRTgGQgkRiik4WvVMW4hCCRHFjZDP3fGwv0IJEauic87hYNS5WkwySqoBRxABKgoiBmhvdGVscygAMh8QASIb8Spw79FGvRm_F7AWlR7HYMdOZVOB8CDwOuG5MhYQAiISaG90ZWxzIGluIG1hbmRzYXVy&ap=aAE&ictx=111&ved=2ahUKEwiD2czwuZ2TAxUNpGYCHcQgEa0QyvcEegQIAxAo" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                
+                Hotel Harshvilas Fort
+
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.google.com/travel/search?q=hotels%20in%20mandsaur&g2lb=4965990%2C72471280%2C72560029%2C72573224%2C72647020%2C72686036%2C72803964%2C72882230%2C72958624%2C73059275%2C73064764%2C73249147&hl=en-IN&gl=in&cs=1&ssta=1&ts=CAESCgoCCAMKAggDEAAaUQozEjEyJTB4Mzk2NDJlYTlkYjE1ZTA5ZjoweDg5YTNlNWVhNDM5OTY5NWI6CE1hbmRzYXVyEhoSFAoHCOoPEAMYDxIHCOoPEAMYEBgBMgIQACoHCgU6A0lOUg&qs=CAEyJ0Noa0lrNnFsbU9DaDVJbUFBUm9NTDJjdk1URm5YekJvTlRCc0VBRTgGQgkRiik4WvVMW4hCCRHFjZDP3fGwv0IJEauic87hYNS5WkwySqoBRxABKgoiBmhvdGVscygAMh8QASIb8Spw79FGvRm_F7AWlR7HYMdOZVOB8CDwOuG5MhYQAiISaG90ZWxzIGluIG1hbmRzYXVy&ap=KigKEglSLfHkBAM4QBE-rg29GMFSQBISCSwZDjwOGzhAET6uDW2tx1JA&ictx=111&ved=2ahUKEwiD2czwuZ2TAxUNpGYCHcQgEa0QyvcEegQIAxBG" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+              Padmawati hotel & resort
+
+
+              </a>
+            </li>
+          </ul>
+
+        <h3>Conclusion</h3>
+        <p>
+          Dharmrajeshwar Temple in Mandsaur is a historic and spiritually significant site dedicated to Lord Shiva. Its serene environment, architectural elegance, and cultural importance make it a must-visit destination for devotees, historians, and travelers seeking spiritual and cultural enrichment.
+        </p>
+      </>
+    )
+  },
+  {
+    id: 29,
+    name: "Shree Adya Katyayani Shaktipeeth",
+    location: "Chhatarpur",
+    imageUrl: asset.Adya_29,
+    description: (
+      <>
+        <h2>Introduction to Shree Adya Katyayani Shaktipeeth</h2>
+        <p>
+          Shree Adya Katyayani Shaktipeeth, located in Chhatarpur, Madhya Pradesh, is a prominent temple dedicated to Goddess Katyayani, one of the forms of Goddess Durga. Recognized as a Shaktipeeth, the temple holds immense spiritual significance for devotees seeking the blessings of divine feminine energy, power, and protection.
+        </p>
+        <p>
+          The temple is a major center for Shakti worship in the region and draws pilgrims from across Madhya Pradesh and neighboring states, especially during festive occasions.
+        </p>
+  
+        <h3>History and Origin</h3>
+        <p>
+          The origins of Shree Adya Katyayani Shaktipeeth are rooted in Hindu mythology, where it is believed that Goddess Katyayani emerged as a fierce form of Durga to defeat evil and protect righteousness. The temple has been revered for centuries, with local legends describing the divine presence of the goddess in this location.
+        </p>
+        <p>
+          Over time, the temple has been maintained and expanded by devotees, preserving its spiritual and cultural importance in Chhatarpur.
+        </p>
+  
+        <h3>Spiritual Significance</h3>
+        <p>
+          As a Shaktipeeth, the temple is considered one of the most powerful centers of feminine divine energy in India. Devotees visit to seek protection, strength, courage, and success in personal and professional life. The worship of Goddess Katyayani here is especially significant for women seeking blessings for family well-being and marital harmony.
+        </p>
+  
+        <h3>Temple Architecture</h3>
+        <p>
+          The temple features traditional North Indian temple architecture with a sanctum sanctorum housing the idol of Goddess Katyayani. The structure includes intricately carved pillars, decorative domes, and a spacious courtyard for devotees. The temple’s architecture reflects devotion and craftsmanship, creating a spiritually uplifting environment.
+        </p>
+  
+        <h3>Rituals and Worship</h3>
+        <p>
+          Daily rituals include morning and evening aartis, chanting of Durga stotras, and offerings of flowers, sweets, and incense. Devotees also perform special pujas and recite mantras to invoke the blessings of the goddess.
+        </p>
+  
+        <h3>Festivals Celebrated</h3>
+        <p>
+          The temple is especially vibrant during Navratri, a nine-day festival dedicated to Goddess Durga. During this period, the temple hosts special prayers, cultural programs, and devotional music. Other festivals like Diwali and Durga Jayanti are also celebrated with great devotion.
+        </p>
+  
+        <h3>Visiting Shree Adya Katyayani Shaktipeeth</h3>
+        <p>
+          The temple is located in Chhatarpur and is accessible by road and nearby railway connections. Pilgrims often include the temple in spiritual tours of the region, visiting other nearby temples and historic sites.
+        </p>
+  
+        <h3>Best Time to Visit</h3>
+        <p>
+          The ideal time to visit the temple is during the months of October to March when the weather is pleasant. Visiting during Navratri offers an immersive spiritual and cultural experience.
+        </p>
+
+          {/* Nearby Hotels Section */}
+          <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+Radhika+kunj+palace/data=!4m10!3m9!1s0x398297c2f9555555:0x479085ac9dab86f0!5m2!4m1!1i2!8m2!3d24.9033974!4d79.5838458!16s%2Fg%2F11dft1p6wz!19sChIJVVVV-cKXgjkR8IarnayFkEc?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Hotel Radhika kunj palace
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+La+Capitol/data=!4m10!3m9!1s0x398297b43151c653:0x248b6b83d4943fc0!5m2!4m1!1i2!8m2!3d24.8917435!4d79.6004458!16s%2Fg%2F11bxjgyj4z!19sChIJU8ZRMbSXgjkRwD-U1INriyQ?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Hotel La Capitol
+              </a>
+            </li>
+          </ul>
+  
+        <h3>Conclusion</h3>
+        <p>
+          Shree Adya Katyayani Shaktipeeth in Chhatarpur is a sacred and powerful spiritual site. With its rich history, divine presence of Goddess Katyayani, and serene surroundings, the temple provides devotees with a place of worship, meditation, and spiritual fulfillment.
+        </p>
+      </>
+    )
+  },
+  {
+    id: 30,
+    name: "Godawal Dham Temple",
+    location: "Beohari, Shahdol",
+    imageUrl: asset.Godawal_Dham_30,
+    description: (
+      <>
+        <h2>Introduction to Godawal Dham Temple</h2>
+        <p>
+          Godawal Dham Temple, located in Beohari, Shahdol district of Madhya Pradesh, is a revered temple dedicated to Lord Shiva and other deities of the Hindu pantheon. The temple serves as a spiritual center for devotees seeking divine blessings, peace, and prosperity. Nestled amidst serene landscapes, the temple is surrounded by lush greenery and provides a tranquil environment for meditation and devotion.
+        </p>
+        <p>
+          Godawal Dham is not only a place of worship but also a cultural hub where religious teachings, rituals, and local traditions are observed. It attracts pilgrims from Shahdol, nearby towns, and even other states, making it an important destination in the spiritual map of Madhya Pradesh.
+        </p>
+  
+        <h3>History and Origin</h3>
+        <p>
+          The origins of Godawal Dham Temple date back several centuries. Local legends suggest that the temple was established after devotees experienced divine visions of Lord Shiva at this sacred site. The area of Beohari has historically been known for its spiritual practices and natural beauty, which contributed to the temple’s establishment as a center of worship.
+        </p>
+        <p>
+          Over time, the temple underwent renovations and expansions, carried out by devoted families and local patrons. These efforts helped preserve its spiritual and architectural heritage, making it a prominent landmark in Shahdol.
+        </p>
+  
+        <h3>Spiritual Significance</h3>
+        <p>
+          Godawal Dham is considered highly auspicious by devotees, who believe that worshipping here brings protection from negative energies, relief from troubles, and blessings for health, wealth, and spiritual growth. Lord Shiva, revered here in his powerful form, is believed to guide devotees toward righteousness and inner peace.
+        </p>
+        <p>
+          Devotees often visit Godawal Dham to perform prayers, meditation, and special rituals, seeking divine guidance for themselves and their families. The temple also hosts spiritual discourses and religious gatherings, enhancing its significance as a center of faith.
+        </p>
+  
+        <h3>Temple Architecture</h3>
+        <p>
+          The temple architecture blends traditional North Indian temple styles with regional influences. The sanctum houses a beautifully adorned Shiva Lingam, surrounded by smaller shrines for other deities such as Lord Ganesha, Goddess Parvati, and local saints. The temple courtyard and open spaces are designed for congregation and ritual practices.
+        </p>
+        <p>
+          Intricate carvings, decorative pillars, and domed structures add to the spiritual and aesthetic appeal of Godawal Dham. The temple’s design facilitates both individual meditation and community worship, creating a serene and harmonious environment.
+        </p>
+  
+        <h3>Rituals and Worship</h3>
+        <p>
+          Daily rituals include morning and evening aartis, offering flowers, incense, and milk to the deities. Devotees also chant mantras and participate in group prayers. Special rituals are performed during festivals and auspicious days, enhancing the spiritual experience.
+        </p>
+        <p>
+          A unique feature of Godawal Dham is its focus on community participation, where devotees actively engage in temple maintenance, charitable activities, and ritual celebrations.
+        </p>
+  
+        <h3>Festivals Celebrated</h3>
+        <p>
+          The temple is a focal point for major Hindu festivals:
+        </p>
+        <ul>
+          <li><strong>Maha Shivaratri:</strong> Celebrated with night-long prayers, special pujas, and devotional gatherings honoring Lord Shiva.</li>
+          <li><strong>Navratri:</strong> Devotees worship Goddess Durga with music, dance, and elaborate rituals.</li>
+          <li><strong>Diwali and Holi:</strong> Celebrated with community participation and decorative lighting, making the temple vibrant and lively.</li>
+        </ul>
+  
+        <h3>Visiting Godawal Dham Temple</h3>
+        <p>
+          Godawal Dham Temple is located in Beohari, Shahdol, and is accessible by road from major towns and cities in Madhya Pradesh. Visitors often combine their pilgrimage with trips to nearby temples, ghats, and natural attractions in the region.
+        </p>
+  
+        <h3>Best Time to Visit</h3>
+        <p>
+          The ideal time to visit Godawal Dham is between October and March, when the weather is cool and pleasant. Festival periods, especially Maha Shivaratri and Navratri, offer a spiritually immersive experience for devotees.
+        </p>
+
+        {/* Nearby Hotels Section */}
+        <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+Vrinda/data=!4m10!3m9!1s0x3983f5d4a8521c59:0xa0d47c8525935748!5m2!4m1!1i2!8m2!3d24.2291263!4d80.7432023!16s%2Fg%2F11rcl9tn6h!19sChIJWRxSqNT1gzkRSFeTJYV81KA?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Hotel Vrinda
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+J.P.+Residency+and+Restaurant./data=!4m10!3m9!1s0x39842f1c387a9da9:0xcf1f09a56e49afc8!5m2!4m1!1i2!8m2!3d24.027602!4d81.3804777!16s%2Fg%2F11by_lf0v4!19sChIJqZ16OBwvhDkRyK9JbqUJH88?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Hotel J.P. Residency and Restaurant
+              </a>
+            </li>
+          </ul>
+
+        <h3>Conclusion</h3>
+        <p>
+          Godawal Dham Temple in Beohari, Shahdol, is a sacred and culturally significant site that combines spiritual devotion, architectural beauty, and serene surroundings. It serves as a center for worship, meditation, and community gatherings, making it a must-visit destination for pilgrims and spiritual seekers in Madhya Pradesh.
+        </p>
+      </>
+    )
+  },
+  {
+    id: 31,
+    name: "Birla Mandir",
+    location: "Bhopal",
+    imageUrl: asset.Birla_31,
+    description: (
+      <>
+        <h2>Introduction to Birla Mandir, Bhopal</h2>
+        <p>
+          Birla Mandir in Bhopal, Madhya Pradesh, is a magnificent temple dedicated to Lord Vishnu and Goddess Lakshmi. Built by the Birla family, this temple is one of the prominent modern temples in the city, blending traditional Hindu architecture with contemporary design. Situated atop a hill, it offers panoramic views of Bhopal and the surrounding areas, creating a serene environment for devotees and visitors.
+        </p>
+        <p>
+          The temple is renowned for its pristine white marble structure, intricate carvings, and spiritual ambiance. It attracts both pilgrims and tourists seeking devotion, peace, and architectural beauty.
+        </p>
+  
+        <h3>History and Origin</h3>
+        <p>
+          Birla Mandir was constructed by the Birla Foundation, part of the prominent Birla family known for establishing several temples across India. The temple was inaugurated in the late 20th century and has since become an important spiritual and cultural landmark in Bhopal.
+        </p>
+        <p>
+          The site was chosen for its elevated location, which not only provides breathtaking views but also symbolizes the spiritual ascent towards divinity. The temple reflects the vision of combining devotion with architectural excellence.
+        </p>
+  
+        <h3>Spiritual Significance</h3>
+        <p>
+          The temple is dedicated to Lord Vishnu in the form of Shri Vishnu and Goddess Lakshmi, representing divine protection, prosperity, and well-being. Devotees believe that offering prayers here brings harmony, wealth, and blessings in family and professional life.
+        </p>
+        <p>
+          The serene surroundings, coupled with the temple’s spiritual energy, make it an ideal place for meditation, reflection, and personal prayer.
+        </p>
+  
+        <h3>Temple Architecture</h3>
+        <p>
+          Birla Mandir showcases contemporary temple architecture with inspiration from traditional Nagara style. The temple is constructed from pristine white marble and features intricately carved pillars, domes, and sculptures of deities from Hindu mythology. The sanctum sanctorum houses idols of Lord Vishnu and Goddess Lakshmi, beautifully adorned and placed in a peaceful setting.
+        </p>
+        <p>
+          The temple complex includes a spacious courtyard, garden, and steps leading up to the main shrine, allowing devotees to experience a gradual spiritual ascent. Decorative elements include carvings of gods, goddesses, and scenes from the Ramayana and Mahabharata.
+        </p>
+  
+        <h3>Rituals and Worship</h3>
+        <p>
+          Daily rituals include morning and evening aartis, chanting of Vishnu Sahasranama, offering flowers, fruits, and incense. Devotees also participate in bhajans and devotional gatherings, especially during festivals.
+        </p>
+        <p>
+          The temple encourages participation from visitors, allowing them to experience spiritual practices in a calm and uplifting environment.
+        </p>
+  
+        <h3>Festivals Celebrated</h3>
+        <p>
+          Major festivals celebrated at Birla Mandir include:
+        </p>
+        <ul>
+          <li><strong>Janmashtami:</strong> Celebrating the birth of Lord Krishna with devotional music, prayers, and decorations.</li>
+          <li><strong>Diwali:</strong> The festival of lights is celebrated with illuminated decorations, special pujas, and community prayers.</li>
+          <li><strong>Vaikuntha Ekadashi:</strong> A day dedicated to Lord Vishnu, observed with special rituals and prayers.</li>
+        </ul>
+  
+        <h3>Visiting Birla Mandir</h3>
+        <p>
+          The temple is located in Bhopal, atop a hill in the city, and is accessible by road. Visitors can enjoy the scenic approach, gardens, and panoramic views of Bhopal. The temple is often included in city tours along with other major attractions.
+        </p>
+  
+        <h3>Best Time to Visit</h3>
+        <p>
+          The best time to visit Birla Mandir is from October to March when the weather is cool and pleasant. Early mornings and evenings are ideal for meditation, photography, and enjoying the serene environment.
+        </p>
+  
+        {/* Nearby Hotels Section */}
+        <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Regenta+Place,+Bhopal/data=!4m10!3m9!1s0x397c431a88fef66b:0x46434678e581d982!5m2!4m1!1i2!8m2!3d23.2310919!4d77.4423209!16s%2Fg%2F11kbj25l3t!19sChIJa_b-iBpDfDkRgtmB5XhGQ0Y?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Regenta Place, Bhopal
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+Ocean+Breeze/data=!4m10!3m9!1s0x397c416ba8839aa7:0x687fe88ebc872d98!5m2!4m1!1i2!8m2!3d23.2511928!4d77.5021802!16s%2Fg%2F11tr_y_xpx!19sChIJp5qDqGtBfDkRmC2HvI7of2g?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Hotel Ocean Breeze
+              </a>
+            </li>
+          </ul>
+
+        <h3>Conclusion</h3>
+        <p>
+          Birla Mandir in Bhopal is a modern yet spiritually significant temple that combines devotion, architectural beauty, and scenic surroundings. It offers devotees and visitors a peaceful retreat, a place for worship, and an opportunity to experience the harmony of art, culture, and spirituality.
+        </p>
+      </>
+    )
+  },
+  {
+    id: 32,
+    name: "Bija Mandal Temple",
+    location: "Vidisha",
+    imageUrl: asset.Bija_mandir_32,
+    description: (
+      <>
+        <h2>Introduction to Bija Mandal Temple</h2>
+        <p>
+          Bija Mandal Temple, located in Vidisha, Madhya Pradesh, is an ancient and historically significant temple dedicated to Lord Shiva. Perched on a small hill, this temple is renowned for its unique architecture and spiritual importance. The temple draws historians, archaeologists, and devotees alike due to its fascinating design and the legends surrounding it.
+        </p>
+        <p>
+          Vidisha itself is a city with rich historical and cultural heritage, and Bija Mandal Temple adds to its prominence as a center of ancient Indian temple architecture.
+        </p>
+  
+        <h3>History and Origin</h3>
+        <p>
+          The temple is believed to have been constructed during the 11th century under the rule of the Paramara dynasty. It was originally dedicated to Lord Shiva and has been revered by devotees for centuries. The temple’s name, “Bija Mandal,” is associated with its unique circular or mandala-like design, which sets it apart from conventional Hindu temples.
+        </p>
+        <p>
+          Though it suffered partial damage over the centuries due to natural causes and invasions, the temple still stands as a testament to the architectural ingenuity of medieval India.
+        </p>
+  
+        <h3>Spiritual Significance</h3>
+        <p>
+          Bija Mandal Temple holds immense spiritual importance as a sacred site for Lord Shiva worship. Devotees visit to perform prayers, seek blessings for health and prosperity, and engage in meditation. The temple’s elevated position is also considered spiritually beneficial, symbolizing ascension toward divinity and inner peace.
+        </p>
+        <p>
+          Pilgrims often perform rituals here during Maha Shivaratri and Shravan month to honor Lord Shiva and strengthen their spiritual connection.
+        </p>
+  
+        <h3>Temple Architecture</h3>
+        <p>
+          The temple is famous for its circular, tower-like design, resembling a stupa or mandala, which is rare in North Indian temples. Constructed with intricately carved stone, the temple features ornate doorways, pilasters, and niches housing smaller sculptures of Hindu deities. The sanctum contains a Shiva Lingam, the main object of worship.
+        </p>
+        <p>
+          Surrounding the temple are remnants of walls and smaller shrines, which indicate that it was once part of a larger temple complex. The Bija Mandal Temple is a fine example of early medieval architectural experimentation in India.
+        </p>
+  
+        <h3>Rituals and Worship</h3>
+        <p>
+          Daily rituals include offering water, milk, flowers, and incense to the Shiva Lingam. Devotees chant mantras and perform aartis in the morning and evening. Special ceremonies take place during auspicious days such as Maha Shivaratri, Shravan Mondays, and other significant festivals dedicated to Lord Shiva.
+        </p>
+  
+        <h3>Festivals Celebrated</h3>
+        <ul>
+          <li><strong>Maha Shivaratri:</strong> Observed with night-long prayers, special pujas, and devotional singing.</li>
+          <li><strong>Shravan Month:</strong> Pilgrims perform fasting and daily worship in honor of Lord Shiva.</li>
+          <li><strong>Other Hindu Festivals:</strong> Occasional celebrations of Holi and Diwali are conducted by the local community.</li>
+        </ul>
+  
+        <h3>Visiting Bija Mandal Temple</h3>
+        <p>
+          The temple is located in Vidisha and is accessible by road and rail from nearby cities. Visitors can explore the temple’s architecture, enjoy panoramic views from the hilltop, and experience the spiritual ambiance of this historical site.
+        </p>
+  
+        <h3>Best Time to Visit</h3>
+        <p>
+          The ideal time to visit Bija Mandal Temple is from October to March, when the weather is cool and comfortable. Festival times, especially Maha Shivaratri, provide a deeply immersive spiritual experience.
+        </p>
+
+        {/* Nearby Hotels Section */}
+        <h3>Nearby Hotels</h3>
+          <ul>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/Hotel+Rajawat/data=!4m10!3m9!1s0x397c0460a80f3909:0x88f8baf4cf3a5e1e!5m2!4m1!1i2!8m2!3d23.5239601!4d77.8138547!16s%2Fg%2F11bc7nds37!19sChIJCTkPqGAEfDkRHl46z_S6-Ig?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                Hotel Rajawat
+              </a>
+            </li>
+            <li>
+              <a 
+                href="https://www.google.com/maps/place/The+Pride+Hotel/data=!4m10!3m9!1s0x397c045e2a88f923:0x2fae2e58001aa74e!5m2!4m1!1i2!8m2!3d23.5227762!4d77.8137431!16s%2Fg%2F11bxdt4rlz!19sChIJI_mIKl4EfDkRTqcaAFguri8?authuser=0&hl=en&rclk=1" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                style={{ color: '#1a73e8', textDecoration: 'underline' }}
+              >
+                The Pride Hotel
+              </a>
+            </li>
+          </ul>
+  
+        <h3>Conclusion</h3>
+        <p>
+          Bija Mandal Temple in Vidisha is a unique blend of spiritual significance and historical architecture. With its rare circular design, sacred Shiva Lingam, and serene hilltop location, it is a must-visit for devotees, historians, and travelers seeking both cultural and spiritual enrichment.
+        </p>
+      </>
+    )
+  }
+
+
+
+
   // Add other temples with unique ids here...
 ];
 

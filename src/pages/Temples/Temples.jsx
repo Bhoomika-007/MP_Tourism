@@ -115,6 +115,119 @@ const templeData = [
     imageUrl: asset.Ramvan_temp, 
     description: 'Shri Kaal Bhairav Temple is dedicated to Kaal Bhairav, the god of time, in Ujjain. The temple holds great significance for those who seek protection from negative forces.'
   },
+  { 
+    id: 17,
+    name: "Shree Matangeshwar Temple", 
+    location: "Khajuraho", 
+    imageUrl: asset.Matangeshwar_Temple_17, 
+    description: 'Shri Kaal Bhairav Temple is dedicated to Kaal Bhairav, the god of time, in Ujjain. The temple holds great significance for those who seek protection from negative forces.'
+  },
+  { 
+    id: 18,
+    name: "Shree 108 Prannath Ji Temple", 
+    location: "Panna", 
+    imageUrl: asset.Shree_108, 
+    description: 'Shri Kaal Bhairav Temple is dedicated to Kaal Bhairav, the god of time, in Ujjain. The temple holds great significance for those who seek protection from negative forces.'
+  },
+  { 
+    id: 19,
+    name: "Shree Chintaman Ganesh", 
+    location: "Ujjain", 
+    imageUrl: asset.Shri_chintamani_Ganesh_Temple_19, 
+    description: 'Shri Kaal Bhairav Temple is dedicated to Kaal Bhairav, the god of time, in Ujjain. The temple holds great significance for those who seek protection from negative forces.'
+  },
+  { 
+    id: 20,
+    name: "Pasupati Nath Temple", 
+    location: "Satna", 
+    imageUrl: asset.Pasupati_Nath_Temple_20, 
+    description: 'Shri Kaal Bhairav Temple is dedicated to Kaal Bhairav, the god of time, in Ujjain. The temple holds great significance for those who seek protection from negative forces.'
+  },
+  { 
+    id: 21,
+    name: "Shri Kamta Nath Mandir", 
+    location: "Chitrakoot", 
+    imageUrl: asset.Kamta_Nath_21, 
+    description: 'Shri Kaal Bhairav Temple is dedicated to Kaal Bhairav, the god of time, in Ujjain. The temple holds great significance for those who seek protection from negative forces.'
+  },
+  { 
+    id: 22,
+    name: "Chaturbhuj Temple", 
+    location: "Khajuraho", 
+    imageUrl: asset.Chaturbhuj_Temple_22, 
+    description: 'Shri Kaal Bhairav Temple is dedicated to Kaal Bhairav, the god of time, in Ujjain. The temple holds great significance for those who seek protection from negative forces.'
+  },
+  { 
+    id: 23,
+    name: "Chaturbhuj Temple", 
+    location: "Orccha", 
+    imageUrl: asset.Chaturbhuj_Temple_23, 
+    description: 'Shri Kaal Bhairav Temple is dedicated to Kaal Bhairav, the god of time, in Ujjain. The temple holds great significance for those who seek protection from negative forces.'
+  },
+  { 
+    id: 24,
+    name: "Siddheshwar Hanuman ji", 
+    location: "Simariya", 
+    imageUrl: asset.siddhesh_hanuman_24, 
+    description: 'Shri Kaal Bhairav Temple is dedicated to Kaal Bhairav, the god of time, in Ujjain. The temple holds great significance for those who seek protection from negative forces.'
+  },
+  { 
+    id: 25,
+    name: "Shri Jugal Kishore Ji Temple", 
+    location: "Panna", 
+    imageUrl: asset.jugal_kishore_25, 
+    description: 'Shri Kaal Bhairav Temple is dedicated to Kaal Bhairav, the god of time, in Ujjain. The temple holds great significance for those who seek protection from negative forces.'
+  },
+  { 
+    id: 26,
+    name: "Jatashankar Mandir", 
+    location: "Damoh", 
+    imageUrl: asset.jatasankar_26, 
+    description: 'Shri Kaal Bhairav Temple is dedicated to Kaal Bhairav, the god of time, in Ujjain. The temple holds great significance for those who seek protection from negative forces.'
+  },
+  { 
+    id: 27,
+    name: "Narmada Ghat", 
+    location: "Dindori", 
+    imageUrl: asset.Narmada_27, 
+    description: 'Shri Kaal Bhairav Temple is dedicated to Kaal Bhairav, the god of time, in Ujjain. The temple holds great significance for those who seek protection from negative forces.'
+  },
+  { 
+    id: 28,
+    name: "Dharmrajeshwar Temple", 
+    location: "Mandsaur", 
+    imageUrl: asset.Dharmarajeshwar_28, 
+    description: 'Shri Kaal Bhairav Temple is dedicated to Kaal Bhairav, the god of time, in Ujjain. The temple holds great significance for those who seek protection from negative forces.'
+  },
+  { 
+    id: 29,
+    name: "Shree Adya Katyayani Shaktipeeth ", 
+    location: "Chhatarpur", 
+    imageUrl: asset.Adya_29, 
+    description: 'Shri Kaal Bhairav Temple is dedicated to Kaal Bhairav, the god of time, in Ujjain. The temple holds great significance for those who seek protection from negative forces.'
+  },
+  { 
+    id: 30,
+    name: "Godawal Dham Temple", 
+    location: "(Beohari) Shahdol", 
+    imageUrl: asset.Godawal_Dham_30, 
+    description: 'Shri Kaal Bhairav Temple is dedicated to Kaal Bhairav, the god of time, in Ujjain. The temple holds great significance for those who seek protection from negative forces.'
+  },
+  { 
+    id: 31,
+    name: "Birla Mandir", 
+    location: "Bhopal", 
+    imageUrl: asset.Birla_31, 
+    description: 'Shri Kaal Bhairav Temple is dedicated to Kaal Bhairav, the god of time, in Ujjain. The temple holds great significance for those who seek protection from negative forces.'
+  },
+  { 
+    id: 32,
+    name: "Bija Mandal Temple", 
+    location: "Vidisha", 
+    imageUrl: asset.Bija_mandir_32, 
+    description: 'Shri Kaal Bhairav Temple is dedicated to Kaal Bhairav, the god of time, in Ujjain. The temple holds great significance for those who seek protection from negative forces.'
+  },
+
   // Add other temples here...
 ];
 

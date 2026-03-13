@@ -16,7 +16,22 @@ import Virateshwar_temple from './Virateshwar_temple.jpg'
 import Ramvan_temp from './Ramvan_temp.webp'
 import Mp_logo from './Mp_logo.png'
 import Kandariya_Mahadev_temp from './Kandariya_Mahadev_temp.jpg'
-
+import Matangeshwar_Temple_17 from './Matangeshwar_Temple_17.jpg'
+import Shree_108 from './Shree_108_18.jpg'
+import Shri_chintamani_Ganesh_Temple_19 from './Shri_chintamani_Ganesh_Temple_19.jpg'
+import Pasupati_Nath_Temple_20 from './Pasupati_Nath_Temple_20.jpg'
+import Kamta_Nath_21 from './Kamta_Nath_21.jpg'
+import Chaturbhuj_Temple_22 from './Chaturbhuj_Temple_22.jpg'
+import Chaturbhuj_Temple_23 from './Chaturbhuj_Temple_23.jpg'
+import siddhesh_hanuman_24 from './siddhesh_hanuman_24.jpg'
+import jugal_kishore_25 from './jugal_kishore_25.jpg'
+import jatasankar_26 from './jatasankar_26.jpg'
+import Narmada_27 from './Narmada_27.jpg'
+import Dharmarajeshwar_28 from './Dharmarajeshwar_28.jpg'
+import Adya_29 from './Adya_29.jpg'
+import Godawal_Dham_30 from './Godawal_Dham_30.jpg'
+import Birla_31 from './Birla_31.jpg'
+import Bija_mandir_32 from './Bija_mandir_32.jpg'
 
 const asset ={
     Mahakal_temple,
@@ -36,7 +51,24 @@ const asset ={
     Virateshwar_temple,
     Ramvan_temp,
     Mp_logo,
-    Kandariya_Mahadev_temp
+    Kandariya_Mahadev_temp,
+    Matangeshwar_Temple_17,
+    Shree_108,
+    Shri_chintamani_Ganesh_Temple_19,
+    Pasupati_Nath_Temple_20,
+    Kamta_Nath_21,
+    Chaturbhuj_Temple_22,
+    Chaturbhuj_Temple_23,
+    siddhesh_hanuman_24,
+    jugal_kishore_25,
+    jatasankar_26,
+    Narmada_27,
+    Dharmarajeshwar_28,
+    Adya_29,
+    Godawal_Dham_30,
+    Birla_31,
+    Bija_mandir_32
+    
 }
 
 export default asset;
